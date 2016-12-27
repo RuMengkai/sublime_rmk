@@ -1,3 +1,2 @@
-Git is a distributed version control system.
-Git is free software.
-My name is rmk
+sublime的配置
+————茹孟凯
