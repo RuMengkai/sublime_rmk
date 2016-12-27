@@ -1,0 +1,1579 @@
+{
+	"folder_history":
+	[
+		"/D/xampp/htdocs/program",
+		"/D/xampp/htdocs/program/1217Exam",
+		"/D/xampp/htdocs/program/1216"
+	],
+	"last_version": 3126,
+	"last_window_id": 22,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 362.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"src",
+						"script\tTag"
+					],
+					[
+						"my",
+						"mysql_connect"
+					],
+					[
+						"border",
+						"border-style"
+					],
+					[
+						"te",
+						"textarea\tTag"
+					],
+					[
+						"border-r",
+						"border-radius"
+					],
+					[
+						"fis",
+						"first-child〔pseudo-class〕"
+					],
+					[
+						"get",
+						"getElementsByTagName〔function〕"
+					],
+					[
+						"h",
+						"height"
+					],
+					[
+						"d",
+						"dazimu.js"
+					],
+					[
+						"for",
+						"for\tfor (…) {…} (Improved Native For-Loop)"
+					],
+					[
+						"_foo",
+						"_foodW"
+					],
+					[
+						"if",
+						"ife\tif … else"
+					],
+					[
+						"main",
+						"main1"
+					],
+					[
+						"di",
+						"div\tTag"
+					],
+					[
+						"spee",
+						"speedY"
+					],
+					[
+						"clear",
+						"clearTimeout〔function〕"
+					],
+					[
+						"backc",
+						"background-color"
+					],
+					[
+						"borderr",
+						"border-radius"
+					],
+					[
+						"pe",
+						"prototype〔variable〕"
+					],
+					[
+						"set",
+						"setTimeout〔function〕"
+					],
+					[
+						"in",
+						"input\tTag"
+					],
+					[
+						"fun",
+						"function〔keyword〕"
+					],
+					[
+						"v",
+						"value"
+					],
+					[
+						"num",
+						"num_rows"
+					],
+					[
+						"row",
+						"num_rows"
+					],
+					[
+						"length",
+						"mssql_field_length"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"getele",
+						"getElementsByTagName()"
+					],
+					[
+						"getel",
+						"getElementsByTagName()"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"img",
+						"_img"
+					],
+					[
+						"re",
+						"readImg"
+					],
+					[
+						"w",
+						"width"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 267.0,
+				"last_filter": "stting",
+				"selected_items":
+				[
+					[
+						"stting",
+						"Preferences: Settings"
+					],
+					[
+						"setting",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"sett",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"packager",
+						"Package Control: Remove Package"
+					],
+					[
+						"sublimeCodeIntel",
+						"SublimeCodeIntel: Disable Plugin"
+					],
+					[
+						"sublin",
+						"SublimeCodeIntel: Reset"
+					],
+					[
+						"auto",
+						"AutoFileName: Default Settings"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"line",
+						"Sort Lines"
+					],
+					[
+						"emmet wra",
+						"Emmet: Wrap With Abbreviation"
+					],
+					[
+						"git ",
+						"Git: Init"
+					],
+					[
+						"prefer",
+						"Preferences: Settings"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"SETING",
+						"Preferences: Settings"
+					],
+					[
+						"view",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"v",
+						"View: Toggle Open Files in Side Bar"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 551.0,
+				"history":
+				[
+					"ll",
+					"ls",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"sublime.packages_path()",
+					"SUBLIME.packages_path()",
+					"SUBLIME.packages_",
+					"sublime.packages_path()",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"found",
+					"amd",
+					"ll",
+					"ls"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Administrator.PC-20161125HPVQ/.ssh/id_rsa",
+				"/C/Users/Administrator.PC-20161125HPVQ/.ssh/id_rsa.pub",
+				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/products.php",
+				"/D/xampp/htdocs/program/1227/common.js",
+				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/products.html",
+				"/D/Program Files (x86)/gitrmk_2/readme.txt",
+				"/D/xampp/htdocs/program/1226/test.html",
+				"/D/xampp/htdocs/program/1226/js/test.js",
+				"/D/xampp/htdocs/program/1226/php/index.php",
+				"/C/Users/Administrator.PC-20161125HPVQ/.ssh/known_hosts",
+				"/D/Program Files (x86)/gitrmk/readme.txt",
+				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/model_1.sql",
+				"/D/xampp/htdocs/program/1215/microblog/js/index.js",
+				"/D/xampp/htdocs/program/1226/js/circle.js",
+				"/D/xampp/htdocs/program/1226/circle.html",
+				"/D/xampp/htdocs/program/1223/circle.html",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/D/xampp/htdocs/program/1224/test.html",
+				"/D/xampp/htdocs/program/1224/js/test.js",
+				"/D/xampp/htdocs/program/1214/index.html",
+				"/D/xampp/htdocs/program/1224/js/dazimu - 副本.js",
+				"/D/xampp/htdocs/program/1224/js/dazimu.js",
+				"/D/xampp/htdocs/program/1217Exam/w1_dom.html",
+				"/D/xampp/htdocs/program/1217Exam/css/w1_dom.css",
+				"/D/xampp/htdocs/program/1224/dazimu.html",
+				"/E/千峰/笔记+作业/1223+ES6继续/Lesson19ES6/demo/javascript/game.js",
+				"/E/千峰/笔记+作业/1223+ES6继续/Lesson19ES6/demo/printChar.html",
+				"/E/千峰/笔记+作业/1223+ES6继续/Lesson19ES61/demo/snake.html",
+				"/D/xampp/htdocs/program/1224/tanchishe.html",
+				"/D/xampp/htdocs/program/1224/js/tanchishe.js",
+				"/D/xampp/htdocs/program/1224/js/circle.js",
+				"/D/xampp/htdocs/program/1223/js/circle.js",
+				"/E/千峰/笔记+作业/1222+ES5+ES6/088圆周运动.html",
+				"/D/xampp/htdocs/program/1223/js/pawuxian.js",
+				"/D/xampp/htdocs/program/1223/paowuxian.html",
+				"/D/xampp/htdocs/program/1223/js/move_1.js",
+				"/D/xampp/htdocs/program/1223/move_1.html",
+				"/C/Users/Administrator.PC-20161125HPVQ/Downloads/猎豹jQuery全屏焦点图代码/index.html",
+				"/C/Users/Administrator.PC-20161125HPVQ/Downloads/猎豹jQuery全屏焦点图代码/css/lrtk.css",
+				"/C/Users/Administrator.PC-20161125HPVQ/Downloads/猎豹jQuery全屏焦点图代码/js/lrtk.js",
+				"/C/Users/Administrator.PC-20161125HPVQ/Downloads/猎豹jQuery全屏焦点图代码/js/jquery.js",
+				"/C/Users/Administrator.PC-20161125HPVQ/Downloads/猎豹jQuery全屏焦点图代码/js/belatedPNG.js",
+				"/E/千峰/笔记+作业/1223+ES6继续/Lesson19ES6/Active/demo.html",
+				"/D/xampp/htdocs/program/1223/test_1.html",
+				"/D/xampp/htdocs/program/1223/js/test_1.js",
+				"/E/千峰/笔记+作业/1223+ES6继续/Lesson19ES6/demo/move.html",
+				"/E/千峰/笔记+作业/1223+ES6继续/Lesson19ES6/demo/javascript/._game.js",
+				"/E/千峰/笔记+作业/1222+ES5+ES6/086抛物线.html",
+				"/D/xampp/htdocs/program/1222/move_1.html",
+				"/D/xampp/htdocs/program/1222/js/move_1.js",
+				"/D/xampp/htdocs/program/1222/js/index2.js",
+				"/D/xampp/htdocs/program/1222/index2.html",
+				"/D/xampp/htdocs/program/RMK_dome/blog.html",
+				"/D/xampp/htdocs/program/1222/index.html",
+				"/D/xampp/htdocs/program/1222/js/index.js",
+				"/E/千峰/资料/javascript案例库整理/照片墙/照片墙一多实例演示.html",
+				"/D/xampp/htdocs/program/1221/js/index.js",
+				"/C/Users/Administrator.PC-20161125HPVQ/Downloads/纯CSS打造图片定时循环滚动焦点图/css/lrtk.css",
+				"/D/xampp/htdocs/program/1221",
+				"/D/xampp/htdocs/program/1221、",
+				"/D/xampp/htdocs/program/1219/js/index.js",
+				"/E/千峰/笔记+作业/1220/8.17/找最多的重复项.html",
+				"/E/千峰/笔记+作业/1220/8.17/验证qq.html",
+				"/E/千峰/笔记+作业/1220/8.17/新建文件夹/图片擦出.html",
+				"/E/千峰/笔记+作业/1220/8.16/search.html",
+				"/E/千峰/笔记+作业/1220/8.10下/多图片拖拽.html",
+				"/E/千峰/笔记+作业/1220/8.17/cookies 小题.html",
+				"/E/千峰/笔记+作业/1220/Lesson16/cookie.html",
+				"/E/千峰/笔记+作业/1220/8.17/正则下.html",
+				"/E/千峰/笔记+作业/1220/Lesson16/Library/cookie.js",
+				"/E/千峰/笔记+作业/1219+cookie/Lesson16/Library/cookie.js",
+				"/E/千峰/笔记+作业/1219+cookie/Lesson16/Library/demo.js",
+				"/E/千峰/笔记+作业/1219+cookie/Lesson16/demo.html",
+				"/E/千峰/笔记+作业/1219+cookie/Lesson16/Library/Ajax.js",
+				"/E/千峰/笔记+作业/1219+cookie/Lesson16/baidu.html",
+				"/E/千峰/笔记+作业/1219+cookie/Lesson16/cookie.html",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/.gitignore",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-mousemap",
+				"/D/xampp/htdocs/program/1219/index.html",
+				"/D/xampp/htdocs/program/1216/js/test1.js",
+				"/D/xampp/htdocs/program/1219/js/work_1.js",
+				"/D/xampp/htdocs/program/1219/js/cookie.js",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+				"/D/xampp/htdocs/program/1219/index.css",
+				"/D/xampp/htdocs/program/RMK_dome/message/js/index.js",
+				"/D/xampp/htdocs/program/RMK_dome/message/php/add.php",
+				"/D/xampp/htdocs/program/RMK_dome/message/php/select.php",
+				"/D/xampp/htdocs/program/RMK_dome/aboutMe.html",
+				"/D/xampp/htdocs/program/RMK_dome/link.html",
+				"/D/xampp/htdocs/program/RMK_dome/message/index.html",
+				"/D/xampp/htdocs/program/RMK_dome/message/css/index.css",
+				"/D/xampp/htdocs/program/RMK_dome/message/js/Ajax.js",
+				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/rmk1.sql",
+				"/D/xampp/htdocs/program/RMK_dome/message/php/index.php",
+				"/D/xampp/htdocs/program/RMK_dome/index.html",
+				"/D/xampp/htdocs/program/RMK_dome/dome/message/index.html",
+				"/D/xampp/htdocs/program/1215/microblog/index.html",
+				"/D/xampp/htdocs/program/rmk_dome/aboutMe.html",
+				"/D/xampp/htdocs/program/rmk_dome/css/aboutMe.css",
+				"/D/xampp/htdocs/program/1217Exam/1218/test/index.html",
+				"/D/xampp/htdocs/program/1217Exam/1218/test/index.js",
+				"/D/xampp/htdocs/program/1217Exam/js/w2_imgMove.js",
+				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/index.html",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"/D/xampp/htdocs/program/1217Exam/work.html",
+				"/D/xampp/htdocs/program/1217Exam/index.html",
+				"/D/xampp/htdocs/program/1217Exam/html/index.html",
+				"/D/xampp/htdocs/program/1217Exam/css/index.css",
+				"/D/xampp/htdocs/program/1217Exam/js/index.js",
+				"/D/xampp/htdocs/program/1216/1217Exam/css/index/css",
+				"/D/xampp/htdocs/program/1216/css/index.css",
+				"/D/xampp/htdocs/program/1216/php/test.php",
+				"/D/xampp/htdocs/program/1216/js/index.js",
+				"/D/xampp/htdocs/program/1216/index.html",
+				"/D/xampp/htdocs/program/1216/jsonp.html",
+				"/D/xampp/htdocs/program/1216/js/Ajax.js",
+				"/D/xampp/htdocs/program/1216/css/common.css",
+				"/E/千峰/笔记+作业/1216/Lesson152/Library/waterfall.js",
+				"/D/xampp/htdocs/program/1216/bb/aa/js/index.js",
+				"/D/xampp/htdocs/program/1216/php/aa.php"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"D:\\xampp\\htdocs\\program\\1221",
+					"D:\\xampp\\htdocs\\program\\1215\\microblog,<current file>",
+					"D:\\xampp\\htdocs\\program\\1216\\js"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"brank",
+					"category",
+					"ajaxRequest",
+					"”",
+					"_circle1",
+					"_lists1",
+					"function",
+					"getElementsByTagName",
+					"\");\n",
+					";\n",
+					"\");\n",
+					"_left",
+					"_top",
+					"_lists",
+					";\n",
+					"flag",
+					"=\"",
+					"<input type=\"button\" name=\"btn\" id=\"btn\" value=\"点击前\">",
+					"utf-8",
+					"ut",
+					"utf8",
+					"utf-8",
+					"chatsrt",
+					"lli",
+					"();\n",
+					"ajax",
+					".content .title{margin: 20px 0;}\n.content .dome{margin: 0 auto;width: 50%;}\n.content .dome .link a{font-size: 18px; margin-left: 20px; float: left;text-align: center;width: 128px;height: 28px;background: #999;color: #fff; display: block;border-radius:5px;margin-bottom: 10px;}\n.content .dome .link{overflow: hidden; }\n.content .dome a:hover{background: #f00;}",
+					"<div class=\"dome\">\n\t\t\t\t<div class=\"title\">\n\t\t\t\t\t<h2>MY blog</h2>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"link\">\n\t\t\t\t\t<a href=\"http://my.csdn.net/qq_19245189?locationNum=0&fps=1\" target=\"_blank\">CSDN</a>\n\t\t\t\t\t<a href=\"https://github.com/RuMengkai\" target=\"_blank\">GitHub</a>\n\t\t\t\t\t<a href=\"http://www.cnblogs.com/RuMengkai/tag/HTML5/\" target=\"_blank\">博客园</a>\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t<div class=\"title\">\n\t\t\t\t\t<h2>大牛blog</h2>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"link\">\n\t\t\t\t\t<a href=\"#\">待续...</a>\t\t\t\n\t\t\t\t</div>\n\t\t\t\t<div style=\"height: 400px;\"></div>\n\t\t\t</div>",
+					"getElementsByName",
+					"document",
+					">\n",
+					"\tdocument.get\n",
+					"getElemen",
+					"ajax",
+					"}\n",
+					"_xhr",
+					"e",
+					"@",
+					"1216/php/aa.php",
+					"sublime.packages_path()",
+					"<!-- console.log(_result); -->",
+					"a",
+					"\t\n\t// body...",
+					"\"/>\n",
+					"\">\n",
+					"dd",
+					"javascript",
+					"<script src=\"js/Ajax.js\" type=\"text/javascript\" charset=\"utf-8\"></script>\n\t\t<script src=\"js/index.js\" type=\"text/javascript\" charset=\"UTF-8\"></script>"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"test",
+						"1224\\test.html"
+					],
+					[
+						"",
+						"1214\\index.html"
+					],
+					[
+						"ind",
+						"index.html"
+					],
+					[
+						"cs",
+						"css\\common.css"
+					],
+					[
+						"js",
+						"js\\Ajax.js"
+					],
+					[
+						"a",
+						"js\\Ajax.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 172.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 773.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"src",
+						"script\tTag"
+					],
+					[
+						"my",
+						"mysql_connect"
+					],
+					[
+						"border",
+						"border-style"
+					],
+					[
+						"te",
+						"textarea\tTag"
+					],
+					[
+						"border-r",
+						"border-radius"
+					],
+					[
+						"fis",
+						"first-child〔pseudo-class〕"
+					],
+					[
+						"get",
+						"getElementsByTagName〔function〕"
+					],
+					[
+						"h",
+						"height"
+					],
+					[
+						"d",
+						"dazimu.js"
+					],
+					[
+						"for",
+						"for\tfor (…) {…} (Improved Native For-Loop)"
+					],
+					[
+						"_foo",
+						"_foodW"
+					],
+					[
+						"if",
+						"ife\tif … else"
+					],
+					[
+						"main",
+						"main1"
+					],
+					[
+						"di",
+						"div\tTag"
+					],
+					[
+						"spee",
+						"speedY"
+					],
+					[
+						"clear",
+						"clearTimeout〔function〕"
+					],
+					[
+						"backc",
+						"background-color"
+					],
+					[
+						"borderr",
+						"border-radius"
+					],
+					[
+						"pe",
+						"prototype〔variable〕"
+					],
+					[
+						"set",
+						"setTimeout〔function〕"
+					],
+					[
+						"in",
+						"input\tTag"
+					],
+					[
+						"fun",
+						"function〔keyword〕"
+					],
+					[
+						"v",
+						"value"
+					],
+					[
+						"num",
+						"num_rows"
+					],
+					[
+						"row",
+						"num_rows"
+					],
+					[
+						"length",
+						"mssql_field_length"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"getele",
+						"getElementsByTagName()"
+					],
+					[
+						"getel",
+						"getElementsByTagName()"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"img",
+						"_img"
+					],
+					[
+						"re",
+						"readImg"
+					],
+					[
+						"w",
+						"width"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/xampp/htdocs/program/1227/Database/products.html",
+					"settings":
+					{
+						"buffer_size": 2830,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/xampp/htdocs/program/1227/Database/products.php",
+					"settings":
+					{
+						"buffer_size": 2853,
+						"encoding": "UTF-8 with BOM",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/test.txt",
+					"settings":
+					{
+						"buffer_size": 72,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 267.0,
+				"last_filter": "setting",
+				"selected_items":
+				[
+					[
+						"setting",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"stting",
+						"Preferences: Settings"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"sett",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"packager",
+						"Package Control: Remove Package"
+					],
+					[
+						"sublimeCodeIntel",
+						"SublimeCodeIntel: Disable Plugin"
+					],
+					[
+						"sublin",
+						"SublimeCodeIntel: Reset"
+					],
+					[
+						"auto",
+						"AutoFileName: Default Settings"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"line",
+						"Sort Lines"
+					],
+					[
+						"emmet wra",
+						"Emmet: Wrap With Abbreviation"
+					],
+					[
+						"git ",
+						"Git: Init"
+					],
+					[
+						"prefer",
+						"Preferences: Settings"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"SETING",
+						"Preferences: Settings"
+					],
+					[
+						"view",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"v",
+						"View: Toggle Open Files in Side Bar"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 551.0,
+				"history":
+				[
+					"ll",
+					"ls",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"sublime.packages_path()",
+					"SUBLIME.packages_path()",
+					"SUBLIME.packages_",
+					"sublime.packages_path()",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"found",
+					"amd",
+					"ll",
+					"ls"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/xampp/htdocs/program",
+				"/D/xampp/htdocs/program/1215/microblog/php",
+				"/D/xampp/htdocs/program/1227",
+				"/D/xampp/htdocs/program/1227/Database",
+				"/D/xampp/htdocs/program/1227/js"
+			],
+			"file_history":
+			[
+				"/C/Users/Administrator.PC-20161125HPVQ/.ssh/id_rsa.pub",
+				"/D/Program Files (x86)/gitrmk/test.txt",
+				"/D/Program Files (x86)/gitrmk_2/readme.txt",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/Administrator.PC-20161125HPVQ/.ssh/id_rsa",
+				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/products.php",
+				"/D/xampp/htdocs/program/1227/common.js",
+				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/products.html",
+				"/D/xampp/htdocs/program/1226/test.html",
+				"/D/xampp/htdocs/program/1226/js/test.js",
+				"/D/xampp/htdocs/program/1226/php/index.php",
+				"/C/Users/Administrator.PC-20161125HPVQ/.ssh/known_hosts",
+				"/D/Program Files (x86)/gitrmk/readme.txt",
+				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/model_1.sql",
+				"/D/xampp/htdocs/program/1215/microblog/js/index.js",
+				"/D/xampp/htdocs/program/1226/js/circle.js",
+				"/D/xampp/htdocs/program/1226/circle.html",
+				"/D/xampp/htdocs/program/1223/circle.html",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/D/xampp/htdocs/program/1224/test.html",
+				"/D/xampp/htdocs/program/1224/js/test.js",
+				"/D/xampp/htdocs/program/1214/index.html",
+				"/D/xampp/htdocs/program/1224/js/dazimu - 副本.js",
+				"/D/xampp/htdocs/program/1224/js/dazimu.js",
+				"/D/xampp/htdocs/program/1217Exam/w1_dom.html",
+				"/D/xampp/htdocs/program/1217Exam/css/w1_dom.css",
+				"/D/xampp/htdocs/program/1224/dazimu.html",
+				"/E/千峰/笔记+作业/1223+ES6继续/Lesson19ES6/demo/javascript/game.js",
+				"/E/千峰/笔记+作业/1223+ES6继续/Lesson19ES6/demo/printChar.html",
+				"/E/千峰/笔记+作业/1223+ES6继续/Lesson19ES61/demo/snake.html",
+				"/D/xampp/htdocs/program/1224/tanchishe.html",
+				"/D/xampp/htdocs/program/1224/js/tanchishe.js",
+				"/D/xampp/htdocs/program/1224/js/circle.js",
+				"/D/xampp/htdocs/program/1223/js/circle.js",
+				"/E/千峰/笔记+作业/1222+ES5+ES6/088圆周运动.html",
+				"/D/xampp/htdocs/program/1223/js/pawuxian.js",
+				"/D/xampp/htdocs/program/1223/paowuxian.html",
+				"/D/xampp/htdocs/program/1223/js/move_1.js",
+				"/D/xampp/htdocs/program/1223/move_1.html",
+				"/C/Users/Administrator.PC-20161125HPVQ/Downloads/猎豹jQuery全屏焦点图代码/index.html",
+				"/C/Users/Administrator.PC-20161125HPVQ/Downloads/猎豹jQuery全屏焦点图代码/css/lrtk.css",
+				"/C/Users/Administrator.PC-20161125HPVQ/Downloads/猎豹jQuery全屏焦点图代码/js/lrtk.js",
+				"/C/Users/Administrator.PC-20161125HPVQ/Downloads/猎豹jQuery全屏焦点图代码/js/jquery.js",
+				"/C/Users/Administrator.PC-20161125HPVQ/Downloads/猎豹jQuery全屏焦点图代码/js/belatedPNG.js",
+				"/E/千峰/笔记+作业/1223+ES6继续/Lesson19ES6/Active/demo.html",
+				"/D/xampp/htdocs/program/1223/test_1.html",
+				"/D/xampp/htdocs/program/1223/js/test_1.js",
+				"/E/千峰/笔记+作业/1223+ES6继续/Lesson19ES6/demo/move.html",
+				"/E/千峰/笔记+作业/1223+ES6继续/Lesson19ES6/demo/javascript/._game.js",
+				"/E/千峰/笔记+作业/1222+ES5+ES6/086抛物线.html",
+				"/D/xampp/htdocs/program/1222/move_1.html",
+				"/D/xampp/htdocs/program/1222/js/move_1.js",
+				"/D/xampp/htdocs/program/1222/js/index2.js",
+				"/D/xampp/htdocs/program/1222/index2.html",
+				"/D/xampp/htdocs/program/RMK_dome/blog.html",
+				"/D/xampp/htdocs/program/1222/index.html",
+				"/D/xampp/htdocs/program/1222/js/index.js",
+				"/E/千峰/资料/javascript案例库整理/照片墙/照片墙一多实例演示.html",
+				"/D/xampp/htdocs/program/1221/js/index.js",
+				"/C/Users/Administrator.PC-20161125HPVQ/Downloads/纯CSS打造图片定时循环滚动焦点图/css/lrtk.css",
+				"/D/xampp/htdocs/program/1221",
+				"/D/xampp/htdocs/program/1221、",
+				"/D/xampp/htdocs/program/1219/js/index.js",
+				"/E/千峰/笔记+作业/1220/8.17/找最多的重复项.html",
+				"/E/千峰/笔记+作业/1220/8.17/验证qq.html",
+				"/E/千峰/笔记+作业/1220/8.17/新建文件夹/图片擦出.html",
+				"/E/千峰/笔记+作业/1220/8.16/search.html",
+				"/E/千峰/笔记+作业/1220/8.10下/多图片拖拽.html",
+				"/E/千峰/笔记+作业/1220/8.17/cookies 小题.html",
+				"/E/千峰/笔记+作业/1220/Lesson16/cookie.html",
+				"/E/千峰/笔记+作业/1220/8.17/正则下.html",
+				"/E/千峰/笔记+作业/1220/Lesson16/Library/cookie.js",
+				"/E/千峰/笔记+作业/1219+cookie/Lesson16/Library/cookie.js",
+				"/E/千峰/笔记+作业/1219+cookie/Lesson16/Library/demo.js",
+				"/E/千峰/笔记+作业/1219+cookie/Lesson16/demo.html",
+				"/E/千峰/笔记+作业/1219+cookie/Lesson16/Library/Ajax.js",
+				"/E/千峰/笔记+作业/1219+cookie/Lesson16/baidu.html",
+				"/E/千峰/笔记+作业/1219+cookie/Lesson16/cookie.html",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/.gitignore",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-mousemap",
+				"/D/xampp/htdocs/program/1219/index.html",
+				"/D/xampp/htdocs/program/1216/js/test1.js",
+				"/D/xampp/htdocs/program/1219/js/work_1.js",
+				"/D/xampp/htdocs/program/1219/js/cookie.js",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+				"/D/xampp/htdocs/program/1219/index.css",
+				"/D/xampp/htdocs/program/RMK_dome/message/js/index.js",
+				"/D/xampp/htdocs/program/RMK_dome/message/php/add.php",
+				"/D/xampp/htdocs/program/RMK_dome/message/php/select.php",
+				"/D/xampp/htdocs/program/RMK_dome/aboutMe.html",
+				"/D/xampp/htdocs/program/RMK_dome/link.html",
+				"/D/xampp/htdocs/program/RMK_dome/message/index.html",
+				"/D/xampp/htdocs/program/RMK_dome/message/css/index.css",
+				"/D/xampp/htdocs/program/RMK_dome/message/js/Ajax.js",
+				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/rmk1.sql",
+				"/D/xampp/htdocs/program/RMK_dome/message/php/index.php",
+				"/D/xampp/htdocs/program/RMK_dome/index.html",
+				"/D/xampp/htdocs/program/RMK_dome/dome/message/index.html",
+				"/D/xampp/htdocs/program/1215/microblog/index.html",
+				"/D/xampp/htdocs/program/rmk_dome/aboutMe.html",
+				"/D/xampp/htdocs/program/rmk_dome/css/aboutMe.css",
+				"/D/xampp/htdocs/program/1217Exam/1218/test/index.html",
+				"/D/xampp/htdocs/program/1217Exam/1218/test/index.js",
+				"/D/xampp/htdocs/program/1217Exam/js/w2_imgMove.js",
+				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/index.html",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"/D/xampp/htdocs/program/1217Exam/work.html",
+				"/D/xampp/htdocs/program/1217Exam/index.html",
+				"/D/xampp/htdocs/program/1217Exam/html/index.html",
+				"/D/xampp/htdocs/program/1217Exam/css/index.css",
+				"/D/xampp/htdocs/program/1217Exam/js/index.js",
+				"/D/xampp/htdocs/program/1216/1217Exam/css/index/css",
+				"/D/xampp/htdocs/program/1216/css/index.css",
+				"/D/xampp/htdocs/program/1216/php/test.php",
+				"/D/xampp/htdocs/program/1216/js/index.js",
+				"/D/xampp/htdocs/program/1216/index.html",
+				"/D/xampp/htdocs/program/1216/jsonp.html",
+				"/D/xampp/htdocs/program/1216/js/Ajax.js",
+				"/D/xampp/htdocs/program/1216/css/common.css",
+				"/E/千峰/笔记+作业/1216/Lesson152/Library/waterfall.js",
+				"/D/xampp/htdocs/program/1216/bb/aa/js/index.js"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"D:\\xampp\\htdocs\\program\\1221",
+					"D:\\xampp\\htdocs\\program\\1215\\microblog,<current file>",
+					"D:\\xampp\\htdocs\\program\\1216\\js"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"brank",
+					"category",
+					"ajaxRequest",
+					"”",
+					"_circle1",
+					"_lists1",
+					"function",
+					"getElementsByTagName",
+					"\");\n",
+					";\n",
+					"\");\n",
+					"_left",
+					"_top",
+					"_lists",
+					";\n",
+					"flag",
+					"=\"",
+					"<input type=\"button\" name=\"btn\" id=\"btn\" value=\"点击前\">",
+					"utf-8",
+					"ut",
+					"utf8",
+					"utf-8",
+					"chatsrt",
+					"lli",
+					"();\n",
+					"ajax",
+					".content .title{margin: 20px 0;}\n.content .dome{margin: 0 auto;width: 50%;}\n.content .dome .link a{font-size: 18px; margin-left: 20px; float: left;text-align: center;width: 128px;height: 28px;background: #999;color: #fff; display: block;border-radius:5px;margin-bottom: 10px;}\n.content .dome .link{overflow: hidden; }\n.content .dome a:hover{background: #f00;}",
+					"<div class=\"dome\">\n\t\t\t\t<div class=\"title\">\n\t\t\t\t\t<h2>MY blog</h2>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"link\">\n\t\t\t\t\t<a href=\"http://my.csdn.net/qq_19245189?locationNum=0&fps=1\" target=\"_blank\">CSDN</a>\n\t\t\t\t\t<a href=\"https://github.com/RuMengkai\" target=\"_blank\">GitHub</a>\n\t\t\t\t\t<a href=\"http://www.cnblogs.com/RuMengkai/tag/HTML5/\" target=\"_blank\">博客园</a>\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t<div class=\"title\">\n\t\t\t\t\t<h2>大牛blog</h2>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"link\">\n\t\t\t\t\t<a href=\"#\">待续...</a>\t\t\t\n\t\t\t\t</div>\n\t\t\t\t<div style=\"height: 400px;\"></div>\n\t\t\t</div>",
+					"getElementsByName",
+					"document",
+					">\n",
+					"\tdocument.get\n",
+					"getElemen",
+					"ajax",
+					"}\n",
+					"_xhr",
+					"e",
+					"@",
+					"1216/php/aa.php",
+					"sublime.packages_path()",
+					"<!-- console.log(_result); -->",
+					"a",
+					"\t\n\t// body...",
+					"\"/>\n",
+					"\">\n",
+					"dd",
+					"javascript",
+					"<script src=\"js/Ajax.js\" type=\"text/javascript\" charset=\"utf-8\"></script>\n\t\t<script src=\"js/index.js\" type=\"text/javascript\" charset=\"UTF-8\"></script>"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\xampp\\htdocs\\program"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/xampp/htdocs/program/1227/Database/products.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2830,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1688,
+										1688
+									]
+								],
+								"settings":
+								{
+									"_anf_new": "",
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1784,
+												1785
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1062,
+												1063
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/xampp/htdocs/program/1227/Database/products.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2853,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2706,
+										2706
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												2831,
+												2832
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1740,
+												1741
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 660.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/test.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 72,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										72,
+										72
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,609,560,189,1349",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"test",
+						"1224\\test.html"
+					],
+					[
+						"",
+						"1214\\index.html"
+					],
+					[
+						"ind",
+						"index.html"
+					],
+					[
+						"cs",
+						"css\\common.css"
+					],
+					[
+						"js",
+						"js\\Ajax.js"
+					],
+					[
+						"a",
+						"js\\Ajax.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 172.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 13,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

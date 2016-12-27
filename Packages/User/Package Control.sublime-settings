@@ -1,0 +1,21 @@
+{
+	"default_browser": "chrome",
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"AdvancedNewFile",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Emmet",
+		"Git",
+		"LiveStyle",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel"
+	]
+}

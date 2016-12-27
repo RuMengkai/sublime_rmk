@@ -1,0 +1,13 @@
+[
+	{ "keys": ["ctrl+shift+n"], "command": "new_window" },
+	{ "keys": ["alt+shift+f"], "command": "reindent" },
+	{
+		"keys": ["alt+r"],
+		"command": "side_bar_open_in_browser",
+		"args": {
+			"paths": [],
+			"type": "testing",
+			"browser": ""
+		}
+	}
+]
