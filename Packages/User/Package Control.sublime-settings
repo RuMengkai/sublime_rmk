@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"default_browser": "chrome",
 	"in_process_packages":
 	[
