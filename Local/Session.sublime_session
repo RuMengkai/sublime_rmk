@@ -594,6 +594,10 @@
 				"selected_items":
 				[
 					[
+						"aa",
+						"aaa.js"
+					],
+					[
 						"win",
 						"window\twindow"
 					],
@@ -754,34 +758,22 @@
 			"buffers":
 			[
 				{
-					"contents": "function main(){\n\t\n}\nwindow.onload=function(){\n\tmain();\n}\nfunction turn(){\n\tvar _timer=0;\n\n\tvar _pic=document.getElementById(\"pic\")\n\tvar _opacity=1;\n\tvar _index=pic.children.length-1;\n\t(function action(){\n\t\twindow.clearTimeout(_timer);\n\t\t_opacity-=0.1;\n\t\t_pic.children[_index].style.opacity=_opacity;\n\t\tif(_opacity>0){\n\t\t\t_timer=window.setTimeout(action,60);\n\t\t}else{\n\t\t\t_pic.children[_index].style.opacity=0;\n\t\t\t_index--;\n\t\t\tif(_index<0){_index=pic.children.length-1;}\n\t\t\t_pic.children[_index].style.zIndex=10;\n\t\t\t_pic.children[_index-1<0?pic.children.length-1:_index-1].style.zIndex=9;\n\t\t\t_pic.children[_index+1>pic.children.length-1?0:_index+1].style.zIndex=0;\n\t\t\t_pic.children[_index+1>pic.children.length-1?0:_index+1].style.opacity=1;\n\t\t\t_opacity=1;\n\t\t\t_timer=window.setTimeout(action,1000);\n\t\t}\n\t\t\n\t})()\n\t\n}\n\n\n\nwindow.onload=function(){\n\tturn();\n}",
-					"file": "/D/xampp/htdocs/program/Example/demo.js",
-					"file_size": 830,
-					"file_write_time": 131279198937430744,
+					"contents": "function main(){\n\tajax\n}\nwindow.onload=function(){\n\tmain();\n}",
+					"file": "/D/xampp/htdocs/program/aaa.js",
+					"file_size": 62,
+					"file_write_time": 131279205530277833,
 					"settings":
 					{
-						"buffer_size": 854,
+						"buffer_size": 61,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"contents": "<snippet>\n\t<content><![CDATA[\nfunction main(){\n\t${1:}\n}\nwindow.onload=function(){\n\tmain();\n}\n]]></content>\n\t<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->\n\t<tabTrigger>window</tabTrigger>\n\t<!-- Optional: Set a scope to limit where the snippet will trigger -->\n\t<scope>source.js</scope>\n</snippet>\n",
-					"file": "/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/window.sublime-snippet",
-					"file_size": 337,
-					"file_write_time": 131279199012415033,
+					"file": "/D/xampp/htdocs/program/aa.html",
 					"settings":
 					{
-						"buffer_size": 323,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/xampp/htdocs/program/Example/test.html",
-					"settings":
-					{
-						"buffer_size": 275,
+						"buffer_size": 257,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -935,18 +927,20 @@
 			},
 			"expanded_folders":
 			[
-				"/D/xampp/htdocs/program",
-				"/D/xampp/htdocs/program/Example"
+				"/D/xampp/htdocs/program"
 			],
 			"file_history":
 			[
-				"/D/xampp/htdocs/program/Example/index.html",
-				"/D/xampp/htdocs/program/Example/test.html",
 				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/html5.sublime-snippet",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/Snippet/html5.sublime-snippet",
+				"/D/xampp/htdocs/program/Example/test.html",
+				"/D/xampp/htdocs/program/Example/demo.js",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/Snippet/window.sublime-snippet",
+				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/window.sublime-snippet",
+				"/D/xampp/htdocs/program/Example/index.html",
 				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default.sublime-commands",
 				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/console.sublime-snippet",
-				"/D/xampp/htdocs/program/Example/demo.js",
 				"/D/xampp/htdocs/program/Example/demo.css",
 				"/D/xampp/htdocs/program/aaa.js",
 				"/D/xampp/htdocs/program/0103/Cart_z/cart.html",
@@ -1064,10 +1058,7 @@
 				"/D/xampp/htdocs/program/1223/js/move_1.js",
 				"/D/xampp/htdocs/program/1223/move_1.html",
 				"/C/Users/Administrator.PC-20161125HPVQ/Downloads/猎豹jQuery全屏焦点图代码/index.html",
-				"/C/Users/Administrator.PC-20161125HPVQ/Downloads/猎豹jQuery全屏焦点图代码/css/lrtk.css",
-				"/C/Users/Administrator.PC-20161125HPVQ/Downloads/猎豹jQuery全屏焦点图代码/js/lrtk.js",
-				"/C/Users/Administrator.PC-20161125HPVQ/Downloads/猎豹jQuery全屏焦点图代码/js/jquery.js",
-				"/C/Users/Administrator.PC-20161125HPVQ/Downloads/猎豹jQuery全屏焦点图代码/js/belatedPNG.js"
+				"/C/Users/Administrator.PC-20161125HPVQ/Downloads/猎豹jQuery全屏焦点图代码/css/lrtk.css"
 			],
 			"find":
 			{
@@ -1088,6 +1079,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"hello",
 					"action",
 					"<!",
 					"brank",
@@ -1166,19 +1158,19 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/D/xampp/htdocs/program/Example/demo.js",
+							"file": "/D/xampp/htdocs/program/aaa.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 854,
+								"buffer_size": 61,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										18,
-										18
+										22,
+										22
 									]
 								],
 								"settings":
@@ -1191,8 +1183,8 @@
 										{
 											"1":
 											[
-												19,
-												20
+												23,
+												24
 											]
 										},
 										"icon":
@@ -1217,26 +1209,31 @@
 									},
 									"bracket_highlighter.regions":
 									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
@@ -1252,29 +1249,23 @@
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
 									],
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"translate_tabs_to_spaces": false
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -1285,126 +1276,24 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/window.sublime-snippet",
+							"file": "/D/xampp/htdocs/program/aa.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 323,
+								"buffer_size": 257,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										323,
-										323
+										257,
+										257
 									]
 								],
 								"settings":
 								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"default_extension": "sublime-snippet",
-									"syntax": "Packages/XML/XML.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/xampp/htdocs/program/Example/test.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 275,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										227,
-										227
-									]
-								],
-								"settings":
-								{
+									"_anf_new": "",
 									"auto_complete": false,
 									"bracket_highlighter.busy": false,
 									"bracket_highlighter.locations":
@@ -1413,8 +1302,8 @@
 										{
 											"1":
 											[
-												224,
-												230
+												252,
+												256
 											]
 										},
 										"icon":
@@ -1429,8 +1318,8 @@
 										{
 											"1":
 											[
-												185,
-												191
+												17,
+												21
 											]
 										},
 										"unmatched":
@@ -1439,26 +1328,31 @@
 									},
 									"bracket_highlighter.regions":
 									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
@@ -1474,26 +1368,21 @@
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
 									],
 									"syntax": "Packages/HTML/HTML.sublime-syntax"
 								},
@@ -1501,7 +1390,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -1543,7 +1432,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,552,230,132,1063",
+			"position": "0,2,3,-1,-1,-1,-1,552,230,132,1063",
 			"project": "",
 			"replace":
 			{
