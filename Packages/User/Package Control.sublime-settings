@@ -8,15 +8,21 @@
 	[
 		"1337 Color Scheme",
 		"AdvancedNewFile",
+		"All Autocomplete",
 		"AutoFileName",
 		"BracketHighlighter",
+		"CSS Format",
+		"DocBlockr",
 		"Emmet",
 		"Git",
+		"LESS",
 		"LiveStyle",
 		"Package Control",
 		"RailsCasts Colour Scheme",
 		"Sass",
 		"SideBarEnhancements",
-		"SublimeCodeIntel"
+		"SublimeCodeIntel",
+		"Terminal",
+		"TrailingSpaces"
 	]
 }
