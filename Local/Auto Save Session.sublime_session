@@ -1,6 +1,12 @@
 {
 	"folder_history":
 	[
+		"/D/PHPxampp/htdocs/Program/JuanPi",
+		"/D/PHPxampp/htdocs/blog",
+		"/E/project_3",
+		"/D/PHPxampp/htdocs/Project_2",
+		"/D/xampp/htdocs/RMK_demo",
+		"/D/xampp/htdocs/blog",
 		"/D/xampp/htdocs/tp9_1",
 		"/D/xampp/htdocs/Program/JuanPi",
 		"/E/千峰/资料/Angular/AngularJS",
@@ -16,7 +22,7 @@
 		"/D/xampp/htdocs/program/1216"
 	],
 	"last_version": 3126,
-	"last_window_id": 56,
+	"last_window_id": 57,
 	"log_indexing": false,
 	"settings":
 	{
@@ -28,1065 +34,73 @@
 				"selected_items":
 				[
 					[
-						"po",
-						"pointer"
+						"t",
+						"test333/"
 					],
 					[
-						"cur",
-						"cur\tcursor: ${pointer};"
+						"Event",
+						"EventEmitter"
 					],
 					[
-						"f",
-						"fimg\t(details.html)"
+						"tra",
+						"transparent"
 					],
 					[
-						"ang",
-						"angular-route.js\t(index.html)"
-					],
-					[
-						"la",
-						"lastName"
-					],
-					[
-						"p",
-						"plugins\t(angular-ajax.html)"
-					],
-					[
-						"my",
-						"$myse〔argument〕"
-					],
-					[
-						"cont",
-						"controller"
-					],
-					[
-						"img",
-						"imgresource"
-					],
-					[
-						"a",
-						"angular-route.js"
-					],
-					[
-						"remo",
-						"removeClass\t.removeClass()"
-					],
-					[
-						"boo",
-						"bootstrap/"
+						"ht",
+						"ht5\tinit-html5"
 					],
 					[
 						"html",
-						"html\t.html()"
+						"html\thtml"
 					],
 					[
-						"bl",
-						"blur\t.blur()"
-					],
-					[
-						"data",
-						"datalist"
-					],
-					[
-						"an",
-						"angular"
-					],
-					[
-						"g",
-						"angular/"
-					],
-					[
-						"moe",
-						"mouseenter\t.mouseenter()"
-					],
-					[
-						"A",
-						"AngularApp\t(index.html)"
-					],
-					[
-						"ng",
-						"ng-app\t(angular_repeat.html)"
-					],
-					[
-						"css",
-						"index.css"
-					],
-					[
-						"op",
-						"option\tTag"
-					],
-					[
-						"in",
-						"input\tTag"
-					],
-					[
-						"_app",
-						"_app"
-					],
-					[
-						"h",
-						"h\theight"
-					],
-					[
-						"hr",
-						"href"
-					],
-					[
-						"text",
-						"text-align"
-					],
-					[
-						"bg",
-						"bgc\tbackground-color: #${1:fff};"
-					],
-					[
-						"rig",
-						"rightfixed.html"
-					],
-					[
-						"js",
-						"json_decode"
-					],
-					[
-						"tur",
-						"true\t(index.js)"
-					],
-					[
-						"sess",
-						"session.php"
-					],
-					[
-						"di",
-						"d-i\tdisplay: inline;"
-					],
-					[
-						"padd",
-						"padding-left"
-					],
-					[
-						"de",
-						"default_204x204.jpg\tw:204 h:204"
-					],
-					[
-						"wom",
-						"-webkit-font-smoothing"
-					],
-					[
-						"add",
-						"addClass〔function〕"
-					],
-					[
-						"com",
-						"compart.js"
-					],
-					[
-						"请",
-						"请再次输入密码\t(register.html)"
-					],
-					[
-						"pa",
-						"parents\t.parents()"
-					],
-					[
-						"regi",
-						"register.css"
-					],
-					[
-						"ind",
-						"info_data"
-					],
-					[
-						"pr",
-						"parse\t$.parseXML()"
-					],
-					[
-						"row",
-						"$row〔variable〕"
-					],
-					[
-						"le",
-						"length\t(会员登录 - 卷皮网.html)"
-					],
-					[
-						"fl",
-						"fl\tfloat: ${1:left};"
-					],
-					[
-						"thi",
-						"third-box\t(login.html)"
-					],
-					[
-						"u",
-						"underline"
-					],
-					[
-						"bgy",
-						"bgpy\tbackground-position-y"
-					],
-					[
-						"fo",
-						"focus\t.focus()"
-					],
-					[
-						"parent",
-						"parents\t.parents()"
-					],
-					[
-						"pra",
-						"parent\t.parent()"
-					],
-					[
-						"chi",
-						"children〔function〕"
-					],
-					[
-						"login",
-						"login.js"
-					],
-					[
-						"fonts",
-						"font-style"
-					],
-					[
-						"left",
-						"left"
-					],
-					[
-						"no",
-						"normal"
-					],
-					[
-						"sty",
-						"font-style"
-					],
-					[
-						"border",
-						"border-bottom"
-					],
-					[
-						"cl",
-						"click〔function〕"
-					],
-					[
-						"cod",
-						"code-box\t(index.html)"
-					],
-					[
-						"background-p",
-						"background-position-x\t(index.js)"
-					],
-					[
-						"dis",
-						"display"
-					],
-					[
-						"fixe",
-						"fixed-right\t(index.html)"
-					],
-					[
-						"mar",
-						"margin"
-					],
-					[
-						"dib",
-						"d-ib+\tdisplay: inline-block;\n*display: inline;\n*zoom: 1;"
-					],
-					[
-						"targ",
-						"target=\"_blank"
-					],
-					[
-						"va",
-						"value"
-					],
-					[
-						"ft-logo",
-						"ft-logo4.png\tw:124 h:47"
-					],
-					[
-						"n",
-						"none"
-					],
-					[
-						"so",
-						"source\t(goodsList.json)"
-					],
-					[
-						"goo",
-						"goods-list\t(index.html)"
-					],
-					[
-						"co",
-						"console\tconsole.log"
-					],
-					[
-						"ch",
-						"children\t.children()"
-					],
-					[
-						"lef",
-						"left"
-					],
-					[
-						"flo",
-						"float"
-					],
-					[
-						"blo",
-						"block"
-					],
-					[
-						"colo",
-						"color"
-					],
-					[
-						"r",
-						"right"
-					],
-					[
-						"c",
-						"c\tcolor: #${1:000};"
-					],
-					[
-						"mb",
-						"margin-bottom"
-					],
-					[
-						"fons",
-						"font-size"
-					],
-					[
-						"bral",
-						"brand_logo\t(index.html)"
-					],
-					[
-						"pos",
-						"pos-a\tposition: absolute;"
-					],
-					[
-						"gif",
-						"loadinggouwu.gif\tw:60 h:50"
-					],
-					[
-						"b",
-						"brank.png\tw:66 h:20"
-					],
-					[
-						"fsi",
-						"font-size"
+						"p",
+						"port\t(server.js)"
 					],
 					[
 						"w",
 						"w\twidth"
 					],
 					[
-						"vi",
-						"vertical-align"
+						"ele",
+						"ele_07.png\tw:52 h:44"
 					],
 					[
-						"ic",
-						"icon-arrow-hover.png\tw:12 h:16"
+						"img",
+						"images/"
 					],
 					[
-						"tr",
-						"transparent"
+						"bg",
+						"bgc\tbackground-color: #${1:fff};"
 					],
 					[
-						"sl",
-						"solid"
+						"bor",
+						"border-color"
 					],
 					[
-						"mou",
-						"mouseenter\t.mouseenter()"
+						"b",
+						"block"
 					],
 					[
-						"im",
-						"images"
-					],
-					[
-						"back",
-						"background-position-y\t(index.less)"
-					],
-					[
-						"mr",
-						"margin-right"
-					],
-					[
-						"sz",
-						"box-sizing"
-					],
-					[
-						"m",
-						"margin"
-					],
-					[
-						"bra",
-						"border-radius"
-					],
-					[
-						"ma",
-						"margin-bottom"
-					],
-					[
-						"off",
-						"offset\t.offset()"
-					],
-					[
-						"hi",
-						"hidden\t(aboutMe.css)"
-					],
-					[
-						"get",
-						"getElementsByTagerName"
-					],
-					[
-						"jp",
-						"jp-app-90-new.png\tw:148 h:148"
-					],
-					[
-						"bca",
-						"background-position"
-					],
-					[
-						"border-t",
-						"border-top-right-radius"
-					],
-					[
-						"heig",
-						"height"
-					],
-					[
-						"hei",
-						"height"
-					],
-					[
-						"hea",
-						"header\t(index.html)"
-					],
-					[
-						"pain",
-						"padding"
-					],
-					[
-						"mo",
-						"mouseover\t.mouseover()"
-					],
-					[
-						"wi",
-						"width"
-					],
-					[
-						"ba",
-						"background"
-					],
-					[
-						"box",
-						"box-shadow"
-					],
-					[
-						"src",
-						"script\tTag"
+						"fn",
+						"fw-n\tfont-weight: normal;"
 					],
 					[
 						"fon",
-						"fontSize"
+						"font-family"
 					],
 					[
-						"cli",
-						"clientWidth"
+						"head",
+						"header\tTag"
 					],
 					[
-						"doc",
-						"documentElement〔variable〕"
+						"sxu",
+						"sxucypx\t(SignController.class.php)"
 					],
 					[
-						"01",
-						"0112page/"
+						"ex",
+						"exit"
 					],
-					[
-						"re",
-						"relative"
-					],
-					[
-						"inn",
-						"inline-block"
-					],
-					[
-						"lo",
-						"login-show\t(index.html)"
-					],
-					[
-						"t",
-						"textarea"
-					],
-					[
-						"loa",
-						"loadImage"
-					],
-					[
-						"fun",
-						"function\tfunction(){}"
-					],
-					[
-						"mat",
-						"margin-top"
-					],
-					[
-						"for",
-						"for\tfor (…) {…}"
-					],
-					[
-						"nav",
-						"nav1"
-					]
-				]
-			},
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 267.0,
-				"last_filter": "install",
-				"selected_items":
-				[
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"key us",
-						"Preferences: Terminal Key Bindings – User"
-					],
-					[
-						"Trailing Spaces",
-						"Trailing Spaces: Delete Trailing Spaces"
-					],
-					[
-						"setting user",
-						"Preferences: Terminal Settings – User"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"sett",
-						"Preferences: Package Control Settings – User"
-					],
-					[
-						"config",
-						"Code Folding: Fold Tag Attributes"
-					],
-					[
-						"user",
-						"Preferences: Terminal Settings – User"
-					],
-					[
-						"sublimeCodeIntel",
-						"SublimeCodeIntel: Reset"
-					],
-					[
-						"tag",
-						"File: Copy as Tag a"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"AllAutocomplete",
-						"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
-					],
-					[
-						"less",
-						"Set Syntax: LESS"
-					],
-					[
-						"pic",
-						"Package Control: Install Package"
-					],
-					[
-						"Snippet",
-						"Snippet: setTimeout function"
-					],
-					[
-						"Snippets",
-						"SublimeCodeIntel: Dump Import Directories"
-					],
-					[
-						"tab",
-						"View: Toggle Tabs"
-					],
-					[
-						"snipp",
-						"Snippet: html"
-					],
-					[
-						"setting",
-						"Preferences: Package Control Settings – User"
-					],
-					[
-						"stting",
-						"Preferences: Settings"
-					],
-					[
-						"key",
-						"Preferences: Key Bindings"
-					],
-					[
-						"packager",
-						"Package Control: Remove Package"
-					],
-					[
-						"sublin",
-						"SublimeCodeIntel: Reset"
-					],
-					[
-						"auto",
-						"AutoFileName: Default Settings"
-					],
-					[
-						"js",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"html",
-						"Set Syntax: HTML"
-					],
-					[
-						"css",
-						"Set Syntax: CSS"
-					],
-					[
-						"sass",
-						"Set Syntax: Sass"
-					],
-					[
-						"rein",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"line",
-						"Sort Lines"
-					],
-					[
-						"emmet wra",
-						"Emmet: Wrap With Abbreviation"
-					],
-					[
-						"git ",
-						"Git: Init"
-					],
-					[
-						"prefer",
-						"Preferences: Settings"
-					],
-					[
-						"",
-						"About"
-					],
-					[
-						"SETING",
-						"Preferences: Settings"
-					],
-					[
-						"view",
-						"View: Toggle Open Files in Side Bar"
-					],
-					[
-						"v",
-						"View: Toggle Open Files in Side Bar"
-					]
-				],
-				"width": 464.0
-			},
-			"console":
-			{
-				"height": 551.0,
-				"history":
-				[
-					"ll",
-					"ls",
-					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
-					"sublime.packages_path()",
-					"SUBLIME.packages_path()",
-					"SUBLIME.packages_",
-					"sublime.packages_path()",
-					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
-					"found",
-					"amd",
-					"ll",
-					"ls"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": true,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/D/xampp/htdocs/Program/JuanPi/tpl/index.html",
-				"/D/xampp/htdocs/Program/JuanPi/js/index.js",
-				"/D/xampp/htdocs/Program/JuanPi/api/data.json",
-				"/D/xampp/htdocs/Program/JuanPi/api/goodsList.json",
-				"/D/xampp/htdocs/Program/JuanPi/test/imgname.html",
-				"/D/xampp/htdocs/Program/JuanPi/test/index.html",
-				"/D/xampp/htdocs/Project_2/0209uiroute/index.html",
-				"/D/xampp/htdocs/Project_2/0209uiroute/main.html",
-				"/D/xampp/htdocs/Project_2/0209uiroute/ui-route/index.html",
-				"/D/xampp/htdocs/Program/JuanPi/less/details.less",
-				"/D/xampp/htdocs/Project_2/0206HouTai/index.html",
-				"/D/xampp/htdocs/Project_2/0206HouTai/js/index.js",
-				"/D/xampp/htdocs/Project_2/0206HouTai/api/menu.json",
-				"/D/xampp/htdocs/Project_2/0206HouTai/js/paaword.js",
-				"/D/xampp/htdocs/Project_2/0206HouTai/js/contect.js",
-				"/D/xampp/htdocs/Program/JuanPi/tpl/details.html",
-				"/D/xampp/htdocs/Project_2/TEST/route/index.html",
-				"/D/xampp/htdocs/Project_2/0206HouTai/less/index.less",
-				"/D/xampp/htdocs/Project_2/0206HouTai/password.html",
-				"/D/xampp/htdocs/Project_2/0206HouTai/contect.html",
-				"/D/xampp/htdocs/Project_2/TEST/rmk.html",
-				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
-				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings",
-				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
-				"/D/xampp/htdocs/Project_2/0206HouTai/css/index1.css",
-				"/D/xampp/htdocs/Project_2/0206HouTai/css/index.css",
-				"/D/xampp/htdocs/Project_2/02-06作业/index.html",
-				"/D/xampp/htdocs/Project_2/0206HouTai/images/1_04.png",
-				"/D/xampp/htdocs/Project_2/02-06作业/css/index.css",
-				"/D/xampp/htdocs/Project_2/0208Angular/angular-ajax.html",
-				"/D/xampp/htdocs/Project_2/0206HouTai/api/新建文本文档.txt",
-				"/D/xampp/htdocs/Project_2/0206HouTai/api/menu.txt",
-				"/D/xampp/htdocs/Project_2/0208Angular/api/img.json",
-				"/D/xampp/htdocs/Project_2/TEST/day03_1.html",
-				"/D/xampp/htdocs/Project_2/0208Angular/angularserver.html",
-				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/tuotuo/index.html",
-				"/D/xampp/htdocs/Project_2/0207Angular/search.html",
-				"/D/xampp/htdocs/Project_2/0207Angular/backstage.html",
-				"/D/xampp/htdocs/Program/JuanPi/js/details.js",
-				"/D/xampp/htdocs/Program/JuanPi/css/common.css",
-				"/E/千峰/资料/Angular/AngularJS/demo12_filter1.html",
-				"/D/xampp/htdocs/Project_2/0207Angular/filter.html",
-				"/D/xampp/htdocs/Project_2/0207Angular/demo.html",
-				"/D/xampp/htdocs/Project_2/0207Angular/day02_2.html",
-				"/D/xampp/htdocs/Project_2/0207Angular/css/serach.css",
-				"/D/xampp/htdocs/Project_2/0207Angular/less/serach.less",
-				"/D/xampp/htdocs/Project_2/0207Angular/less/serach.tex",
-				"/E/千峰/资料/Angular/AngularJS/js/demo16.js",
-				"/D/xampp/htdocs/Project_2/0207Angular/test1.html",
-				"/E/千峰/笔记+作业_2/0207+Angular/demo.html",
-				"/E/千峰/资料/Angular/AngularJS/demo8-ng-repeat.html",
-				"/D/xampp/htdocs/Project_2/0206HouTai/images/1_06.png",
-				"/E/千峰/笔记+作业/0108+boostrap/AdminLTE-master/AdminLTE-master/index.html",
-				"/D/xampp/htdocs/RMK_dome/index.html",
-				"/D/xampp/htdocs/RMK_dome/aboutMe.html",
-				"/D/xampp/htdocs/RMK_dome/blog.html",
-				"/D/xampp/htdocs/rumengkai/index.html",
-				"/D/xampp/htdocs/Angular/test/Ajax.js",
-				"/D/xampp/htdocs/Angular/test/index.html",
-				"/D/xampp/htdocs/Angular/test/data.json",
-				"/E/千峰/资料/Angular/AngularJS/demo.html",
-				"/D/xampp/htdocs/Program_js/1216/js/Ajax.js",
-				"/E/千峰/资料/Angular/AngularJS/demo6_ng-src.html",
-				"/D/xampp/htdocs/Angular/angular_repeat.html",
-				"/D/xampp/htdocs/Angular/angular.html",
-				"/D/xampp/htdocs/Angular/api/cityName.json",
-				"/D/xampp/htdocs/Angular/angular2.html",
-				"/D/xampp/htdocs/Angular/js/angular.js",
-				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/angular.js-master/angular.js-master/css/angular.css",
-				"/D/xampp/htdocs/Program/README.md",
-				"/D/xampp/htdocs/Program/JuanPi/less/compart.less",
-				"/D/xampp/htdocs/Program/JuanPi/css/aaa.css",
-				"/D/xampp/htdocs/Program/JuanPi/less/aaa.less",
-				"/D/xampp/htdocs/Program_js/aa.html",
-				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/aaaaa/test2/index.html",
-				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/aa/test2/index.html",
-				"/D/xampp/htdocs/Program/JuanPi/tpl/footer.html",
-				"/D/xampp/htdocs/Program/JuanPi/css/index.css",
-				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/【卷皮1折】卓诗尼拼色蝴蝶结单鞋 折扣价59元包邮抢购-卷皮网.html",
-				"/D/xampp/htdocs/Program/JuanPi/js/compart.js",
-				"/D/xampp/htdocs/Program/JuanPi/tpl/rightfixed.html",
-				"/D/xampp/htdocs/Program/JuanPi/tpl/cart.html",
-				"/D/xampp/htdocs/Program/JuanPi/less/index.less",
-				"/D/xampp/htdocs/Program/JuanPi/tpl/toolbar.html",
-				"/D/xampp/htdocs/Program/JuanPi/api/registerUser.php",
-				"/D/xampp/htdocs/Program/JuanPi/js/register.js",
-				"/D/xampp/htdocs/Program/JuanPi/api/session.php",
-				"/D/xampp/htdocs/Program/JuanPi/api/signout.php",
-				"/D/xampp/htdocs/Program/JuanPi/js/login.js",
-				"/D/xampp/htdocs/Program/JuanPi/api/login.php",
-				"/D/xampp/htdocs/Program/JuanPi/js/jquerySession.js",
-				"/D/xampp/htdocs/Program/JuanPi/tpl/nav.html",
-				"/D/xampp/htdocs/Program/JuanPi/tpl/heard.html",
-				"/D/xampp/htdocs/Program/JuanPi/tpl/register.html",
-				"/D/xampp/htdocs/Program/JuanPi/less/register.less",
-				"/D/xampp/htdocs/Program/JuanPi/api/checkUser.php",
-				"/D/xampp/htdocs/Program/JuanPi/regist.html",
-				"/D/xampp/htdocs/Program/JuanPi/images/login.gif",
-				"/D/xampp/htdocs/Program/JuanPi/images/login",
-				"/D/xampp/htdocs/Program/JuanPi/tpl/login.html",
-				"/D/xampp/htdocs/Program/JuanPi/login.html",
-				"/D/xampp/htdocs/Program/JuanPi/less/login.less",
-				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/会员登录 - 卷皮网.html",
-				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/会员登录 - 卷皮网_files/saved_resource(2)",
-				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/会员登录 - 卷皮网_files/saved_resource(1)",
-				"/E/千峰/资料/代码库/js_seippet/锚点滑动效果/maodian.html",
-				"/E/test/readme.txt",
-				"/D/xampp/htdocs/Program_js/z_text/test2.html",
-				"/D/xampp/htdocs/Program_js/z_text/index.js",
-				"/E/千峰/笔记+作业/1216+瀑布流/Lesson152/Library/waterfall.js",
-				"/D/xampp/htdocs/Program_js/0110jQuery/index2.html",
-				"/D/xampp/htdocs/Program/JuanPi/images/ct_icons.png",
-				"/D/xampp/htdocs/Program_js/z_text/bbbb.html",
-				"/D/xampp/htdocs/Program_js/z_text/imgname.html",
-				"/D/xampp/htdocs/Program_js/index.js",
-				"/E/千峰/资料/代码库/案例/lunbo/demo.html",
-				"/D/xampp/htdocs/Program_js/1217Exam/js/w7_countDown.js",
-				"/D/xampp/htdocs/Program/JuanPi/css/index.less",
-				"/D/xampp/htdocs/Program_js/RMK_dome/link.html",
-				"/D/xampp/htdocs/Program_js/RMK_dome/aboutMe.html",
-				"/D/xampp/htdocs/rumengkai/js/index.js",
-				"/D/xampp/htdocs/Program_js/0116sass/index.html",
-				"/D/xampp/htdocs/Program_js/0116sass/scss/demo.scss",
-				"/D/xampp/htdocs/Program_js/0116sass/css/demo.css",
-				"/D/xampp/htdocs/Program_js/0116sass/scss/style.scss",
-				"/D/xampp/htdocs/Program_js/0116sass/scss/style.css",
-				"/D/xampp/htdocs/Program_js/0116sass/demo/scss/demo.scss"
-			],
-			"find":
-			{
-				"height": 38.0
-			},
-			"find_in_files":
-			{
-				"height": 90.0,
-				"where_history":
-				[
-					"D:\\xampp\\htdocs\\program\\1221",
-					"D:\\xampp\\htdocs\\program\\1215\\microblog,<current file>",
-					"D:\\xampp\\htdocs\\program\\1216\\js"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"!important",
-					"pic",
-					"查看/编辑",
-					"_GET",
-					"_POST",
-					"_POST\n",
-					"\t\t\n",
-					"cartnum",
-					"rgba(0,0,0,0.5)",
-					"main",
-					"https",
-					"500",
-					"700",
-					"ajax",
-					"about",
-					"pushState",
-					"window.history",
-					"pushState",
-					"_saveToHistory",
-					"_checkMenu",
-					"current",
-					"pushState",
-					"History",
-					"url",
-					"click",
-					"onclick",
-					".on",
-					".on ",
-					" on ",
-					"types, selector, data, fn",
-					"types, selector, data, fn,",
-					" one ",
-					"^one$",
-					"one",
-					"$",
-					"data",
-					"e.data",
-					"function data",
-					"e.data",
-					"data",
-					"isImpact",
-					"javascript",
-					"images",
-					"floor",
-					"this",
-					";\n",
-					"this",
-					"drop",
-					"_time",
-					"i",
-					"main2",
-					"fx",
-					"_fx",
-					"hello",
-					"action",
-					"<!",
-					"brank",
-					"category",
-					"ajaxRequest",
-					"”",
-					"_circle1",
-					"_lists1",
-					"function",
-					"getElementsByTagName",
-					"\");\n",
-					";\n",
-					"\");\n",
-					"_left",
-					"_top",
-					"_lists",
-					";\n",
-					"flag",
-					"=\"",
-					"<input type=\"button\" name=\"btn\" id=\"btn\" value=\"点击前\">",
-					"utf-8",
-					"ut",
-					"utf8",
-					"utf-8",
-					"chatsrt",
-					"lli",
-					"();\n",
-					"ajax",
-					".content .title{margin: 20px 0;}\n.content .dome{margin: 0 auto;width: 50%;}\n.content .dome .link a{font-size: 18px; margin-left: 20px; float: left;text-align: center;width: 128px;height: 28px;background: #999;color: #fff; display: block;border-radius:5px;margin-bottom: 10px;}\n.content .dome .link{overflow: hidden; }\n.content .dome a:hover{background: #f00;}",
-					"<div class=\"dome\">\n\t\t\t\t<div class=\"title\">\n\t\t\t\t\t<h2>MY blog</h2>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"link\">\n\t\t\t\t\t<a href=\"http://my.csdn.net/qq_19245189?locationNum=0&fps=1\" target=\"_blank\">CSDN</a>\n\t\t\t\t\t<a href=\"https://github.com/RuMengkai\" target=\"_blank\">GitHub</a>\n\t\t\t\t\t<a href=\"http://www.cnblogs.com/RuMengkai/tag/HTML5/\" target=\"_blank\">博客园</a>\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t<div class=\"title\">\n\t\t\t\t\t<h2>大牛blog</h2>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"link\">\n\t\t\t\t\t<a href=\"#\">待续...</a>\t\t\t\n\t\t\t\t</div>\n\t\t\t\t<div style=\"height: 400px;\"></div>\n\t\t\t</div>",
-					"getElementsByName",
-					"document",
-					">\n",
-					"\tdocument.get\n",
-					"getElemen",
-					"ajax",
-					"}\n",
-					"_xhr",
-					"e",
-					"@",
-					"1216/php/aa.php",
-					"sublime.packages_path()",
-					"<!-- console.log(_result); -->",
-					"a",
-					"\t\n\t// body...",
-					"\"/>\n",
-					"\">\n",
-					"dd",
-					"javascript",
-					"<script src=\"js/Ajax.js\" type=\"text/javascript\" charset=\"utf-8\"></script>\n\t\t<script src=\"js/index.js\" type=\"text/javascript\" charset=\"UTF-8\"></script>"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": false,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": false
-			},
-			"incremental_find":
-			{
-				"height": 30.0
-			},
-			"input":
-			{
-				"height": 43.0
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 56.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"test",
-						"1224\\test.html"
-					],
-					[
-						"",
-						"1214\\index.html"
-					],
-					[
-						"ind",
-						"index.html"
-					],
-					[
-						"cs",
-						"css\\common.css"
-					],
-					[
-						"js",
-						"js\\Ajax.js"
-					],
-					[
-						"a",
-						"js\\Ajax.js"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 380.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": false,
-			"side_bar_width": 170.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 782.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
 					[
 						"goo",
 						"goodsID"
@@ -1148,20 +162,12 @@
 						"lastName"
 					],
 					[
-						"p",
-						"plugins\t(angular-ajax.html)"
-					],
-					[
 						"my",
 						"$myse〔argument〕"
 					],
 					[
 						"cont",
 						"controller"
-					],
-					[
-						"img",
-						"imgresource"
 					],
 					[
 						"a",
@@ -1174,10 +180,6 @@
 					[
 						"boo",
 						"bootstrap/"
-					],
-					[
-						"html",
-						"html\t.html()"
 					],
 					[
 						"bl",
@@ -1234,10 +236,6 @@
 					[
 						"text",
 						"text-align"
-					],
-					[
-						"bg",
-						"bgc\tbackground-color: #${1:fff};"
 					],
 					[
 						"rig",
@@ -1452,16 +450,8 @@
 						"loadinggouwu.gif\tw:60 h:50"
 					],
 					[
-						"b",
-						"brank.png\tw:66 h:20"
-					],
-					[
 						"fsi",
 						"font-size"
-					],
-					[
-						"w",
-						"w\twidth"
 					],
 					[
 						"vi",
@@ -1554,94 +544,39 @@
 					[
 						"mo",
 						"mouseover\t.mouseover()"
-					],
-					[
-						"wi",
-						"width"
-					],
-					[
-						"ba",
-						"background"
-					],
-					[
-						"box",
-						"box-shadow"
-					],
-					[
-						"src",
-						"script\tTag"
-					],
-					[
-						"fon",
-						"fontSize"
-					],
-					[
-						"cli",
-						"clientWidth"
-					],
-					[
-						"doc",
-						"documentElement〔variable〕"
-					],
-					[
-						"01",
-						"0112page/"
-					],
-					[
-						"re",
-						"relative"
-					],
-					[
-						"inn",
-						"inline-block"
-					],
-					[
-						"lo",
-						"login-show\t(index.html)"
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/D/xampp/htdocs/Project_2/gouwuche/index.html",
-					"settings":
-					{
-						"buffer_size": 4234,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/xampp/htdocs/Project_2/gouwuche/js/index.js",
-					"settings":
-					{
-						"buffer_size": 3479,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/xampp/htdocs/Project_2/gouwuche/api/goodData.json",
-					"settings":
-					{
-						"buffer_size": 10596,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				}
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
 			],
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 267.0,
-				"last_filter": "install",
+				"height": 392.0,
+				"last_filter": "setting",
 				"selected_items":
 				[
+					[
+						"setting",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"Snippet: html"
+					],
 					[
 						"install",
 						"Package Control: Install Package"
@@ -1657,10 +592,6 @@
 					[
 						"setting user",
 						"Preferences: Terminal Settings – User"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
 					],
 					[
 						"sett",
@@ -1681,10 +612,6 @@
 					[
 						"tag",
 						"File: Copy as Tag a"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
 					],
 					[
 						"AllAutocomplete",
@@ -1715,10 +642,6 @@
 						"Snippet: html"
 					],
 					[
-						"setting",
-						"Preferences: Package Control Settings – User"
-					],
-					[
 						"stting",
 						"Preferences: Settings"
 					],
@@ -1741,10 +664,6 @@
 					[
 						"js",
 						"Set Syntax: JavaScript"
-					],
-					[
-						"html",
-						"Set Syntax: HTML"
 					],
 					[
 						"css",
@@ -1821,39 +740,119 @@
 				"side_bar_visible": true,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/D/xampp/htdocs/Project_2",
-				"/D/xampp/htdocs/Project_2/0208Angular",
-				"/D/xampp/htdocs/Project_2/0210Exam/js",
-				"/D/xampp/htdocs/Project_2/gouwuche",
-				"/D/xampp/htdocs/Project_2/gouwuche/api",
-				"/D/xampp/htdocs/Project_2/gouwuche/js"
-			],
 			"file_history":
 			[
+				"/E/千峰/笔记+作业_3/1638pro/node/day02/modules/file.js",
+				"/E/千峰/笔记+作业_3/1638pro/node/day02/modules/router.js",
+				"/E/project_3/0215streammongoDb/view/home.html",
+				"/E/project_3/0215streammongoDb/router_1.js",
+				"/E/project_3/0215streammongoDb/package.json",
+				"/D/PHPxampp/htdocs/rumengkai/README.md",
+				"/D/PHPxampp/htdocs/tp9_1/README.md",
+				"/E/project_3/0214node/demo.js",
+				"/E/project_3/0215streammongoDb/stream-2.js",
+				"/E/project_3/0215streammongoDb/stream-1.js",
+				"/E/project_3/0214node/大纲.txt",
+				"/E/project_3/0215mongoDb/stream-2.js",
+				"/E/project_3/0215mongoDb/img.json",
+				"/E/project_3/0215mongoDb/img2",
+				"/E/project_3/0215mongoDb/stream-1.js",
+				"/E/project_3/0215mongoDb/img/aaa.json.gz",
+				"/E/project_3/0215mongoDb/img/aaa.json",
+				"/E/project_3/0215mongoDb/img/img1/img1",
+				"/E/千峰/笔记+作业_3/1638pro/node/day02/大纲.txt",
+				"/E/project_3/test1.js",
+				"/E/project_3/0214node/package.json",
+				"/E/project_3/0214node/fs_6.js",
+				"/E/project_3/0214node/fs_5.js",
+				"/E/project_3/0214node/fs_2.js",
+				"/E/project_3/0214node/fs_3.js",
+				"/E/project_3/0214node/fs_4.js",
+				"/E/project_3/0214node/disc/hello.log",
+				"/E/project_3/0214node/fs_0.js",
+				"/E/project_3/0214node/event.js",
+				"/E/project_3/0214node/fs_1.js",
+				"/E/project_3/0214node/test1.js",
+				"/E/project_3/0214node/mooc.js",
+				"/E/project_3/0214node/eleme.js",
+				"/E/千峰/笔记+作业_3/1638pro/node/day01/hello.js",
+				"/E/project_3/0214node/hello.js",
+				"/E/project_3/0214node/demo/commonJS.js",
+				"/E/千峰/笔记+作业_3/1638pro/node/day01/package.json",
+				"/E/project_3/t.css",
+				"/E/project_3/0214node/serverES5.js",
+				"/C/Users/Administrator/Desktop/home/index.html",
+				"/E/project_3/0214node/commonJS.js",
+				"/D/PHPxampp/htdocs/Project_2/0214node/commonJS.js",
+				"/D/PHPxampp/htdocs/Project_2/0214node/demo.js",
+				"/D/PHPxampp/htdocs/Project_2/0214node/fs_1.js",
+				"/E/千峰/资料/字典/json/json.txt",
+				"/E/千峰/资料/gulp/gulp_am/gulpfile.js",
+				"/E/千峰/资料/gulp/gulp_am/gulp学习笔记.docx",
+				"/D/PHPxampp/htdocs/Project_2/0214node/server.js",
+				"/D/PHPxampp/htdocs/Project_2/0214node/index.html",
+				"/D/PHPxampp/htdocs/Project_2/0214node/0105/index.html",
+				"/D/PHPxampp/htdocs/Project_2/0214node/0105/server.js",
+				"/D/PHPxampp/htdocs/Project_2/0214node/0105/index.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+				"/C/Users/Administrator/.codeintel/config.log",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
+				"/D/PHPxampp/htdocs/Project_2/0213eleme/css/common.css",
+				"/D/PHPxampp/htdocs/Project_2/0213eleme/index.html",
+				"/D/PHPxampp/htdocs/Project_2/0213eleme/less/index.less",
+				"/C/Users/Administrator/.ssh/id_rsa",
+				"/C/Users/Administrator/.ssh/id_rsa.pub",
+				"/D/xampp/htdocs/Project_2/test_1.html",
+				"/D/xampp/htdocs/Project_2/0213eleme/less/index.less",
+				"/D/xampp/htdocs/Project_2/0213eleme/js/index.js",
+				"/D/xampp/htdocs/Project_2/0213eleme/index.html",
+				"/D/xampp/htdocs/Project_2/0213eleme/css/common.css",
+				"/E/千峰/笔记+作业/1122+弹性和布局/移动端页面案例/demo.html",
+				"/E/千峰/笔记+作业/1122+弹性和布局/1122/css/style.css",
+				"/E/千峰/笔记+作业/1122+弹性和布局/移动端页面案例/iconfont/index.css",
+				"/E/千峰/笔记+作业/1122+弹性和布局/移动端页面案例/iconfont/demo.css",
+				"/D/xampp/htdocs/Project_2/0213eleme/images/item_1.jpeg",
+				"/D/xampp/htdocs/Project_2/0213eleme/css/index.css",
+				"/D/xampp/htdocs/Project_2/0213eleme/sass/index.sass",
 				"/D/xampp/htdocs/Project_2/gouwuche/demo.html",
-				"/D/xampp/htdocs/Project_2/gouwuche/api/goodData.json",
+				"/D/xampp/htdocs/RMK_demo/message/php/add.php",
+				"/D/xampp/htdocs/RMK_demo/message/php/select.php",
+				"/D/xampp/htdocs/blog/wp-config.php",
+				"/D/xampp/htdocs/tp9_1/App/Common/Conf/config.php",
+				"/D/xampp/htdocs/tp9_1/App/Home/Controller/SignController.class.php",
+				"/D/xampp/htdocs/tp9_1/App/Home/Controller/MobileController.class.php",
+				"/D/xampp/htdocs/tp9_1/App/Home/View/Mobile/add.html",
+				"/D/xampp/htdocs/tp9_1/App/Home/Controller/ComController.class.php",
+				"/D/xampp/htdocs/tp9_1/App/Common/Common/function.php",
+				"/D/xampp/htdocs/tp9_1/App/Qwadmin/View/Member/edit.html",
+				"/D/xampp/htdocs/tp9_1/App/Qwadmin/View/Member/index.html",
+				"/D/xampp/htdocs/tp9_1/App/Qwadmin/View/Member/add.html",
+				"/D/xampp/htdocs/tp9_1/App/Qwadmin/Controller/MemberController.class.php",
+				"/D/xampp/htdocs/tp9_1/App/Qwadmin/View/Index/index.html",
+				"/D/xampp/htdocs/tp9_1/App/Home/View/Sign/signList.html",
+				"/D/xampp/htdocs/tp9_1/App/Home/View/Sign/looks.html",
+				"/D/xampp/htdocs/tp9_1/App/Home/View/Login/index.html",
+				"/D/xampp/htdocs/tp9_1/App/Qwadmin/Controller/LoginController.class.php",
+				"/D/xampp/htdocs/tp9_1/App/Home/Controller/LoginController.class.php",
 				"/D/xampp/htdocs/Project_2/gouwuche/js/cart.js",
+				"/D/xampp/htdocs/Project_2/gouwuche/index.html",
 				"/D/xampp/htdocs/Project_2/gouwuche/js/index.js",
+				"/D/xampp/htdocs/Project_2/0210Exam/js/index.js",
+				"/D/xampp/htdocs/Project_2/gouwuche/api/goodData.json",
 				"/D/xampp/htdocs/Project_2/0208Angular/day03ajax.html",
 				"/D/xampp/htdocs/Project_2/0210Exam/index.html",
-				"/D/xampp/htdocs/Project_2/0210Exam/js/index.js",
 				"/D/xampp/htdocs/Project_2/0210Exam/js/demo21.js",
 				"/D/xampp/htdocs/Project_2/0210Exam/demo21_zxiu.html",
 				"/D/xampp/htdocs/Project_2/gouwuche/aa.html",
-				"/D/xampp/htdocs/Project_2/gouwuche/index.html",
 				"/D/xampp/htdocs/Project_2/gouwuche/css/index.html",
 				"/D/xampp/htdocs/Project_2/0210Exam/demo2.html",
 				"/D/xampp/htdocs/Project_2/gouwuche/js/demo.js",
 				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/demo.html",
 				"/D/xampp/htdocs/Project_2/gouwuche/demo.html.bak",
-				"/D/xampp/htdocs/tp9_1/App/Home/View/Sign/looks.html",
-				"/D/xampp/htdocs/tp9_1/App/Home/View/Sign/signList.html",
 				"/D/xampp/htdocs/tp9_1/App/Home/View/Index/index.html",
-				"/D/xampp/htdocs/tp9_1/App/Home/Controller/SignController.class.php",
-				"/D/xampp/htdocs/Project_2/test_1.html",
-				"/D/xampp/htdocs/tp9_1/App/Home/Controller/MobileController.class.php",
 				"/D/xampp/htdocs/tp9_1/App/Home/View/Public/header.html",
 				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/冰帆海淘 - 美国、日本海淘首选 - 轻奢海淘电商 - 冰帆海淘，惠购全球.html",
 				"/D/xampp/htdocs/tp9_1/App/Home/Controller/IndexController.class.php",
@@ -1870,100 +869,11 @@
 				"/D/xampp/htdocs/Program/JuanPi/js/index.js",
 				"/D/xampp/htdocs/Program/JuanPi/api/data.json",
 				"/D/xampp/htdocs/Program/JuanPi/api/goodsList.json",
-				"/D/xampp/htdocs/Program/JuanPi/test/imgname.html",
-				"/D/xampp/htdocs/Program/JuanPi/test/index.html",
-				"/D/xampp/htdocs/Project_2/0209uiroute/main.html",
-				"/D/xampp/htdocs/Project_2/0209uiroute/ui-route/index.html",
-				"/D/xampp/htdocs/Program/JuanPi/less/details.less",
-				"/D/xampp/htdocs/Project_2/0206HouTai/js/paaword.js",
-				"/D/xampp/htdocs/Project_2/0206HouTai/js/contect.js",
-				"/D/xampp/htdocs/Program/JuanPi/tpl/details.html",
-				"/D/xampp/htdocs/Project_2/TEST/route/index.html",
-				"/D/xampp/htdocs/Project_2/0206HouTai/less/index.less",
-				"/D/xampp/htdocs/Project_2/0206HouTai/password.html",
-				"/D/xampp/htdocs/Project_2/0206HouTai/contect.html",
-				"/D/xampp/htdocs/Project_2/TEST/rmk.html",
-				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
-				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings",
-				"/C/Users/Administrator.PC-20161125HPVQ/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
-				"/D/xampp/htdocs/Project_2/0206HouTai/css/index1.css",
-				"/D/xampp/htdocs/Project_2/0206HouTai/css/index.css",
-				"/D/xampp/htdocs/Project_2/02-06作业/index.html",
-				"/D/xampp/htdocs/Project_2/0206HouTai/images/1_04.png",
-				"/D/xampp/htdocs/Project_2/02-06作业/css/index.css",
-				"/D/xampp/htdocs/Project_2/0208Angular/angular-ajax.html",
-				"/D/xampp/htdocs/Project_2/0206HouTai/api/新建文本文档.txt",
-				"/D/xampp/htdocs/Project_2/0206HouTai/api/menu.txt",
-				"/D/xampp/htdocs/Project_2/0208Angular/api/img.json",
-				"/D/xampp/htdocs/Project_2/TEST/day03_1.html",
-				"/D/xampp/htdocs/Project_2/0208Angular/angularserver.html",
-				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/tuotuo/index.html",
-				"/D/xampp/htdocs/Project_2/0207Angular/search.html",
-				"/D/xampp/htdocs/Project_2/0207Angular/backstage.html",
-				"/D/xampp/htdocs/Program/JuanPi/js/details.js",
-				"/D/xampp/htdocs/Program/JuanPi/css/common.css",
-				"/E/千峰/资料/Angular/AngularJS/demo12_filter1.html",
-				"/D/xampp/htdocs/Project_2/0207Angular/filter.html",
-				"/D/xampp/htdocs/Project_2/0207Angular/demo.html",
-				"/D/xampp/htdocs/Project_2/0207Angular/day02_2.html",
-				"/D/xampp/htdocs/Project_2/0207Angular/css/serach.css",
-				"/D/xampp/htdocs/Project_2/0207Angular/less/serach.less",
-				"/D/xampp/htdocs/Project_2/0207Angular/less/serach.tex",
-				"/E/千峰/资料/Angular/AngularJS/js/demo16.js",
-				"/D/xampp/htdocs/Project_2/0207Angular/test1.html",
-				"/E/千峰/笔记+作业_2/0207+Angular/demo.html",
-				"/E/千峰/资料/Angular/AngularJS/demo8-ng-repeat.html",
-				"/D/xampp/htdocs/Project_2/0206HouTai/images/1_06.png",
-				"/E/千峰/笔记+作业/0108+boostrap/AdminLTE-master/AdminLTE-master/index.html",
-				"/D/xampp/htdocs/RMK_dome/index.html",
-				"/D/xampp/htdocs/RMK_dome/aboutMe.html",
-				"/D/xampp/htdocs/RMK_dome/blog.html",
-				"/D/xampp/htdocs/rumengkai/index.html",
-				"/D/xampp/htdocs/Angular/test/Ajax.js",
-				"/D/xampp/htdocs/Angular/test/index.html",
-				"/D/xampp/htdocs/Angular/test/data.json",
-				"/E/千峰/资料/Angular/AngularJS/demo.html",
-				"/D/xampp/htdocs/Program_js/1216/js/Ajax.js",
-				"/E/千峰/资料/Angular/AngularJS/demo6_ng-src.html",
-				"/D/xampp/htdocs/Angular/angular_repeat.html",
-				"/D/xampp/htdocs/Angular/angular.html",
-				"/D/xampp/htdocs/Angular/api/cityName.json",
-				"/D/xampp/htdocs/Angular/angular2.html",
-				"/D/xampp/htdocs/Angular/js/angular.js",
-				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/angular.js-master/angular.js-master/css/angular.css",
-				"/D/xampp/htdocs/Program/README.md",
-				"/D/xampp/htdocs/Program/JuanPi/less/compart.less",
-				"/D/xampp/htdocs/Program/JuanPi/css/aaa.css",
-				"/D/xampp/htdocs/Program/JuanPi/less/aaa.less",
-				"/D/xampp/htdocs/Program_js/aa.html",
-				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/aaaaa/test2/index.html",
-				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/aa/test2/index.html",
-				"/D/xampp/htdocs/Program/JuanPi/tpl/footer.html",
-				"/D/xampp/htdocs/Program/JuanPi/css/index.css",
-				"/C/Users/Administrator.PC-20161125HPVQ/Desktop/【卷皮1折】卓诗尼拼色蝴蝶结单鞋 折扣价59元包邮抢购-卷皮网.html",
-				"/D/xampp/htdocs/Program/JuanPi/js/compart.js",
-				"/D/xampp/htdocs/Program/JuanPi/tpl/rightfixed.html",
-				"/D/xampp/htdocs/Program/JuanPi/tpl/cart.html",
-				"/D/xampp/htdocs/Program/JuanPi/less/index.less",
-				"/D/xampp/htdocs/Program/JuanPi/tpl/toolbar.html",
-				"/D/xampp/htdocs/Program/JuanPi/api/registerUser.php",
-				"/D/xampp/htdocs/Program/JuanPi/js/register.js",
-				"/D/xampp/htdocs/Program/JuanPi/api/session.php",
-				"/D/xampp/htdocs/Program/JuanPi/api/signout.php",
-				"/D/xampp/htdocs/Program/JuanPi/js/login.js",
-				"/D/xampp/htdocs/Program/JuanPi/api/login.php",
-				"/D/xampp/htdocs/Program/JuanPi/js/jquerySession.js",
-				"/D/xampp/htdocs/Program/JuanPi/tpl/nav.html",
-				"/D/xampp/htdocs/Program/JuanPi/tpl/heard.html",
-				"/D/xampp/htdocs/Program/JuanPi/tpl/register.html",
-				"/D/xampp/htdocs/Program/JuanPi/less/register.less",
-				"/D/xampp/htdocs/Program/JuanPi/api/checkUser.php",
-				"/D/xampp/htdocs/Program/JuanPi/regist.html"
+				"/D/xampp/htdocs/Program/JuanPi/test/imgname.html"
 			],
 			"find":
 			{
-				"height": 36.0
+				"height": 37.0
 			},
 			"find_in_files":
 			{
@@ -1980,6 +890,11 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					".:",
+					"rem",
+					"item_1",
+					"15",
+					"USER",
 					"price",
 					"httpRequest",
 					"changeNum",
@@ -2102,8 +1017,7 @@
 					"\"/>\n",
 					"\">\n",
 					"dd",
-					"javascript",
-					"<script src=\"js/Ajax.js\" type=\"text/javascript\" charset=\"utf-8\"></script>\n\t\t<script src=\"js/index.js\" type=\"text/javascript\" charset=\"UTF-8\"></script>"
+					"javascript"
 				],
 				"highlight": false,
 				"in_selection": false,
@@ -2118,414 +1032,31 @@
 				"whole_word": false,
 				"wrap": false
 			},
-			"folders":
-			[
-				{
-					"path": "D:\\xampp\\htdocs\\Project_2"
-				},
-				{
-					"path": "E:\\千峰\\资料\\Angular\\AngularJS"
-				},
-				{
-					"path": "D:\\xampp\\htdocs\\tp9_1"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 1,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/D/xampp/htdocs/Project_2/gouwuche/index.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 4234,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3912,
-										3912
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												3979,
-												3982
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/tag.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												3891,
-												3894
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 1560.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/xampp/htdocs/Project_2/gouwuche/js/index.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3479,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3136,
-										3136
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												3139,
-												3140
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												3024,
-												3025
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": -0.0,
-								"translation.y": 2100.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/xampp/htdocs/Project_2/gouwuche/api/goodData.json",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 10596,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-											"1":
-											[
-												0,
-												1
-											]
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						}
-					]
-				}
-			],
 			"incremental_find":
 			{
-				"height": 28.0
+				"height": 29.0
 			},
 			"input":
 			{
 				"height": 43.0
 			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 256.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
+			"output.nodejs":
+			{
+				"height": 264.0
+			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,576,661,18,1280",
-			"project": "",
 			"replace":
 			{
-				"height": 52.0
+				"height": 54.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2579,6 +1110,1667 @@
 				],
 				"width": 0.0
 			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 161.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 745.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"und",
+						"undefined〔keyword〕"
+					],
+					[
+						"met",
+						"method\t(login.ejs)"
+					],
+					[
+						"user",
+						"userinfo\t(index.ejs)"
+					],
+					[
+						"sub",
+						"submit"
+					],
+					[
+						"insert",
+						"insertDate"
+					],
+					[
+						"pa",
+						"password"
+					],
+					[
+						"mong",
+						"mongoClient"
+					],
+					[
+						"mon",
+						"mongoClient"
+					],
+					[
+						"a",
+						"a\tTag"
+					],
+					[
+						"su",
+						"sub\t<sub>"
+					],
+					[
+						"ac",
+						"action\tAttr"
+					],
+					[
+						"but",
+						"button"
+					],
+					[
+						"for",
+						"form\tTag"
+					],
+					[
+						"ajax",
+						"ajax〔function〕"
+					],
+					[
+						"ajsx",
+						"ajaxsuccess\t$.ajaxSuccess()"
+					],
+					[
+						"aj",
+						"ajax\tGoogle AJAX Libraries: Prototype"
+					],
+					[
+						"fun",
+						"function\tfunction(){}"
+					],
+					[
+						"sc",
+						"script\tTag"
+					],
+					[
+						"da",
+						"data"
+					],
+					[
+						"ser",
+						"server"
+					],
+					[
+						"S",
+						"Server\t(router_2.js)"
+					],
+					[
+						"t",
+						"test333/"
+					],
+					[
+						"Event",
+						"EventEmitter"
+					],
+					[
+						"tra",
+						"transparent"
+					],
+					[
+						"ht",
+						"ht5\tinit-html5"
+					],
+					[
+						"html",
+						"html\thtml"
+					],
+					[
+						"p",
+						"port\t(server.js)"
+					],
+					[
+						"w",
+						"w\twidth"
+					],
+					[
+						"ele",
+						"ele_07.png\tw:52 h:44"
+					],
+					[
+						"img",
+						"images/"
+					],
+					[
+						"bg",
+						"bgc\tbackground-color: #${1:fff};"
+					],
+					[
+						"bor",
+						"border-color"
+					],
+					[
+						"b",
+						"block"
+					],
+					[
+						"fn",
+						"fw-n\tfont-weight: normal;"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"head",
+						"header\tTag"
+					],
+					[
+						"sxu",
+						"sxucypx\t(SignController.class.php)"
+					],
+					[
+						"ex",
+						"exit"
+					],
+					[
+						"goo",
+						"goodsID"
+					],
+					[
+						"win",
+						"window〔variable〕"
+					],
+					[
+						"ch",
+						"check\t(cart.js)"
+					],
+					[
+						"add",
+						"addcart\t(index.html)"
+					],
+					[
+						"rem",
+						"remove"
+					],
+					[
+						"good",
+						"goodcart\t(demo21_zxiu.html)"
+					],
+					[
+						"pos",
+						"pos-f\tposition: fixed;"
+					],
+					[
+						"con",
+						"console\tconsole.log"
+					],
+					[
+						"ci",
+						"cityName.json"
+					],
+					[
+						"po",
+						"pointer"
+					],
+					[
+						"cur",
+						"cur\tcursor: ${pointer};"
+					],
+					[
+						"f",
+						"fimg\t(details.html)"
+					],
+					[
+						"ang",
+						"angular-route.js\t(index.html)"
+					],
+					[
+						"la",
+						"lastName"
+					],
+					[
+						"my",
+						"$myse〔argument〕"
+					],
+					[
+						"cont",
+						"controller"
+					],
+					[
+						"remo",
+						"removeClass\t.removeClass()"
+					],
+					[
+						"boo",
+						"bootstrap/"
+					],
+					[
+						"bl",
+						"blur\t.blur()"
+					],
+					[
+						"data",
+						"datalist"
+					],
+					[
+						"an",
+						"angular"
+					],
+					[
+						"g",
+						"angular/"
+					],
+					[
+						"moe",
+						"mouseenter\t.mouseenter()"
+					],
+					[
+						"A",
+						"AngularApp\t(index.html)"
+					],
+					[
+						"ng",
+						"ng-app\t(angular_repeat.html)"
+					],
+					[
+						"css",
+						"index.css"
+					],
+					[
+						"op",
+						"option\tTag"
+					],
+					[
+						"in",
+						"input\tTag"
+					],
+					[
+						"_app",
+						"_app"
+					],
+					[
+						"h",
+						"h\theight"
+					],
+					[
+						"hr",
+						"href"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"rig",
+						"rightfixed.html"
+					],
+					[
+						"js",
+						"json_decode"
+					],
+					[
+						"tur",
+						"true\t(index.js)"
+					],
+					[
+						"sess",
+						"session.php"
+					],
+					[
+						"di",
+						"d-i\tdisplay: inline;"
+					],
+					[
+						"padd",
+						"padding-left"
+					],
+					[
+						"de",
+						"default_204x204.jpg\tw:204 h:204"
+					],
+					[
+						"wom",
+						"-webkit-font-smoothing"
+					],
+					[
+						"com",
+						"compart.js"
+					],
+					[
+						"请",
+						"请再次输入密码\t(register.html)"
+					],
+					[
+						"regi",
+						"register.css"
+					],
+					[
+						"ind",
+						"info_data"
+					],
+					[
+						"pr",
+						"parse\t$.parseXML()"
+					],
+					[
+						"row",
+						"$row〔variable〕"
+					],
+					[
+						"le",
+						"length\t(会员登录 - 卷皮网.html)"
+					],
+					[
+						"fl",
+						"fl\tfloat: ${1:left};"
+					],
+					[
+						"thi",
+						"third-box\t(login.html)"
+					],
+					[
+						"u",
+						"underline"
+					],
+					[
+						"bgy",
+						"bgpy\tbackground-position-y"
+					],
+					[
+						"fo",
+						"focus\t.focus()"
+					],
+					[
+						"parent",
+						"parents\t.parents()"
+					],
+					[
+						"pra",
+						"parent\t.parent()"
+					],
+					[
+						"chi",
+						"children〔function〕"
+					],
+					[
+						"login",
+						"login.js"
+					],
+					[
+						"fonts",
+						"font-style"
+					],
+					[
+						"left",
+						"left"
+					],
+					[
+						"no",
+						"normal"
+					],
+					[
+						"sty",
+						"font-style"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"cl",
+						"click〔function〕"
+					],
+					[
+						"cod",
+						"code-box\t(index.html)"
+					],
+					[
+						"background-p",
+						"background-position-x\t(index.js)"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"fixe",
+						"fixed-right\t(index.html)"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"dib",
+						"d-ib+\tdisplay: inline-block;\n*display: inline;\n*zoom: 1;"
+					],
+					[
+						"targ",
+						"target=\"_blank"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"ft-logo",
+						"ft-logo4.png\tw:124 h:47"
+					],
+					[
+						"n",
+						"none"
+					],
+					[
+						"so",
+						"source\t(goodsList.json)"
+					],
+					[
+						"co",
+						"console\tconsole.log"
+					],
+					[
+						"lef",
+						"left"
+					],
+					[
+						"flo",
+						"float"
+					],
+					[
+						"blo",
+						"block"
+					],
+					[
+						"colo",
+						"color"
+					],
+					[
+						"r",
+						"right"
+					],
+					[
+						"c",
+						"c\tcolor: #${1:000};"
+					],
+					[
+						"mb",
+						"margin-bottom"
+					],
+					[
+						"fons",
+						"font-size"
+					],
+					[
+						"bral",
+						"brand_logo\t(index.html)"
+					],
+					[
+						"gif",
+						"loadinggouwu.gif\tw:60 h:50"
+					],
+					[
+						"fsi",
+						"font-size"
+					],
+					[
+						"vi",
+						"vertical-align"
+					],
+					[
+						"ic",
+						"icon-arrow-hover.png\tw:12 h:16"
+					],
+					[
+						"tr",
+						"transparent"
+					],
+					[
+						"sl",
+						"solid"
+					],
+					[
+						"mou",
+						"mouseenter\t.mouseenter()"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/project_3/0218express/myApp/app.js",
+					"settings":
+					{
+						"buffer_size": 501,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/readme.txt",
+					"settings":
+					{
+						"buffer_size": 22,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 1414,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/project_3/test1.js",
+					"settings":
+					{
+						"buffer_size": 243,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "remo",
+				"selected_items":
+				[
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"un j",
+						"Build With: JSLint"
+					],
+					[
+						"jslin",
+						"JSLint"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"PackageControl",
+						"Package Control: Add Channel"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"setting",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"Snippet: html"
+					],
+					[
+						"key us",
+						"Preferences: Terminal Key Bindings – User"
+					],
+					[
+						"Trailing Spaces",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"setting user",
+						"Preferences: Terminal Settings – User"
+					],
+					[
+						"sett",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"config",
+						"Code Folding: Fold Tag Attributes"
+					],
+					[
+						"user",
+						"Preferences: Terminal Settings – User"
+					],
+					[
+						"sublimeCodeIntel",
+						"SublimeCodeIntel: Reset"
+					],
+					[
+						"tag",
+						"File: Copy as Tag a"
+					],
+					[
+						"AllAutocomplete",
+						"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+					],
+					[
+						"less",
+						"Set Syntax: LESS"
+					],
+					[
+						"pic",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet",
+						"Snippet: setTimeout function"
+					],
+					[
+						"Snippets",
+						"SublimeCodeIntel: Dump Import Directories"
+					],
+					[
+						"tab",
+						"View: Toggle Tabs"
+					],
+					[
+						"snipp",
+						"Snippet: html"
+					],
+					[
+						"stting",
+						"Preferences: Settings"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"packager",
+						"Package Control: Remove Package"
+					],
+					[
+						"sublin",
+						"SublimeCodeIntel: Reset"
+					],
+					[
+						"auto",
+						"AutoFileName: Default Settings"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"line",
+						"Sort Lines"
+					],
+					[
+						"emmet wra",
+						"Emmet: Wrap With Abbreviation"
+					],
+					[
+						"git ",
+						"Git: Init"
+					],
+					[
+						"prefer",
+						"Preferences: Settings"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"SETING",
+						"Preferences: Settings"
+					],
+					[
+						"view",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"v",
+						"View: Toggle Open Files in Side Bar"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 551.0,
+				"history":
+				[
+					"ll",
+					"ls",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"sublime.packages_path()",
+					"SUBLIME.packages_path()",
+					"SUBLIME.packages_",
+					"sublime.packages_path()",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"found",
+					"amd",
+					"ll",
+					"ls"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": false,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/project_3"
+			],
+			"file_history":
+			[
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
+				"/E/project_3/0218express/myApp/node_modules/debug/.jshintrc",
+				"/E/project_3/0218express/myApp/myExpressApp/node_modules/.6.1.0@promise/.jshintrc",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/JSLint.sublime-settings",
+				"/E/project_3/0218express/myApp/package.json",
+				"/E/project_3/0218express/myApp/myEjsApp/routes/users.js",
+				"/E/project_3/debug.js",
+				"/E/project_3/test1.js",
+				"/E/project_3/0218express/myApp/myEjsApp/views/index.ejs",
+				"/E/project_3/0218express/myApp/myEjsApp/routes/index.js",
+				"/E/project_3/0218express/myApp/myEjsApp/views/login.ejs",
+				"/D/茹孟凯/第三阶段视频/HBuilderProject/HBuilderProject/1638pro/node/day03/express/views/index.ejs",
+				"/D/茹孟凯/第三阶段视频/HBuilderProject/HBuilderProject/1638pro/node/day03/express/views/index_.ejs",
+				"/D/茹孟凯/第三阶段视频/HBuilderProject/HBuilderProject/1638pro/node/day03/express/routes/index_.js",
+				"/E/project_3/0218express/myApp/myEjsApp/views/register.ejs",
+				"/D/茹孟凯/第三阶段视频/HBuilderProject/HBuilderProject/1638pro/node/day03/express/app.js",
+				"/E/project_3/0218express/myApp/myEjsApp/app.js",
+				"/D/茹孟凯/第三阶段视频/HBuilderProject/HBuilderProject/1638pro/node/day03/express/routes/users.js",
+				"/E/project_3/0218express/myApp/myEjsApp/bin/www",
+				"/E/project_3/0218express/myApp/myEjsApp/package.json",
+				"/E/project_3/0218express/myApp/myExpressApp/routes/index.js",
+				"/E/project_3/0218express/myApp/app.js",
+				"/E/project_3/0218express/myApp/myExpressApp/bin/www",
+				"/E/project_3/0218express/myApp/myExpressApp/package.json",
+				"/E/project_3/0218express/myApp/myExpressApp/views/error.jade",
+				"/E/project_3/0218express/index.js",
+				"/E/千峰/笔记+作业_3/1638pro/node/day03/大纲.txt",
+				"/E/project_3/0215streammongoDb/router_2.js",
+				"/E/project_3/0215streammongoDb/router.js",
+				"/E/project_3/0215streammongoDb/大纲.txt",
+				"/E/project_3/0215streammongoDb/mongodb.js",
+				"/E/project_3/0215streammongoDb/file.js",
+				"/E/project_3/0215streammongoDb/package.json",
+				"/E/project_3/0214node/server.js",
+				"/E/project_3/0215streammongoDb/view/index.html",
+				"/D/PHPxampp/htdocs/Program/JuanPi/api/checkUser.php",
+				"/D/PHPxampp/htdocs/Program/JuanPi/api/login.php",
+				"/D/PHPxampp/htdocs/Program/JuanPi/api/login1.php",
+				"/D/PHPxampp/htdocs/Program/JuanPi/api/registerUser.php",
+				"/D/PHPxampp/htdocs/Program/JuanPi/api/session.php",
+				"/D/PHPxampp/htdocs/Program/JuanPi/api/signout.php",
+				"/E/project_3/0215streammongoDb/view/login.html",
+				"/E/project_3/0215streammongoDb/view/home.html",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/E/千峰/笔记+作业_3/1638pro/node/day02/modules/file.js",
+				"/E/千峰/笔记+作业_3/1638pro/node/day02/modules/router.js",
+				"/E/project_3/0215streammongoDb/router_1.js",
+				"/D/PHPxampp/htdocs/rumengkai/README.md",
+				"/D/PHPxampp/htdocs/tp9_1/README.md",
+				"/E/project_3/0214node/demo.js",
+				"/E/project_3/0215streammongoDb/stream-2.js",
+				"/E/project_3/0215streammongoDb/stream-1.js",
+				"/E/project_3/0214node/大纲.txt",
+				"/E/project_3/0215mongoDb/stream-2.js",
+				"/E/project_3/0215mongoDb/img.json",
+				"/E/project_3/0215mongoDb/img2",
+				"/E/project_3/0215mongoDb/stream-1.js",
+				"/E/project_3/0215mongoDb/img/aaa.json.gz",
+				"/E/project_3/0215mongoDb/img/aaa.json",
+				"/E/project_3/0215mongoDb/img/img1/img1",
+				"/E/千峰/笔记+作业_3/1638pro/node/day02/大纲.txt",
+				"/E/project_3/0214node/package.json",
+				"/E/project_3/0214node/fs_6.js",
+				"/E/project_3/0214node/fs_5.js",
+				"/E/project_3/0214node/fs_2.js",
+				"/E/project_3/0214node/fs_3.js",
+				"/E/project_3/0214node/fs_4.js",
+				"/E/project_3/0214node/disc/hello.log",
+				"/E/project_3/0214node/fs_0.js",
+				"/E/project_3/0214node/event.js",
+				"/E/project_3/0214node/fs_1.js",
+				"/E/project_3/0214node/test1.js",
+				"/E/project_3/0214node/mooc.js",
+				"/E/project_3/0214node/eleme.js",
+				"/E/千峰/笔记+作业_3/1638pro/node/day01/hello.js",
+				"/E/project_3/0214node/hello.js",
+				"/E/project_3/0214node/demo/commonJS.js",
+				"/E/千峰/笔记+作业_3/1638pro/node/day01/package.json",
+				"/E/project_3/t.css",
+				"/E/project_3/0214node/serverES5.js",
+				"/C/Users/Administrator/Desktop/home/index.html",
+				"/E/project_3/0214node/commonJS.js",
+				"/D/PHPxampp/htdocs/Project_2/0214node/commonJS.js",
+				"/D/PHPxampp/htdocs/Project_2/0214node/demo.js",
+				"/D/PHPxampp/htdocs/Project_2/0214node/fs_1.js",
+				"/E/千峰/资料/字典/json/json.txt",
+				"/E/千峰/资料/gulp/gulp_am/gulpfile.js",
+				"/E/千峰/资料/gulp/gulp_am/gulp学习笔记.docx",
+				"/D/PHPxampp/htdocs/Project_2/0214node/server.js",
+				"/D/PHPxampp/htdocs/Project_2/0214node/index.html",
+				"/D/PHPxampp/htdocs/Project_2/0214node/0105/index.html",
+				"/D/PHPxampp/htdocs/Project_2/0214node/0105/server.js",
+				"/D/PHPxampp/htdocs/Project_2/0214node/0105/index.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/C/Users/Administrator/.codeintel/config.log",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
+				"/D/PHPxampp/htdocs/Project_2/0213eleme/css/common.css",
+				"/D/PHPxampp/htdocs/Project_2/0213eleme/index.html",
+				"/D/PHPxampp/htdocs/Project_2/0213eleme/less/index.less",
+				"/C/Users/Administrator/.ssh/id_rsa",
+				"/C/Users/Administrator/.ssh/id_rsa.pub",
+				"/D/xampp/htdocs/Project_2/test_1.html",
+				"/D/xampp/htdocs/Project_2/0213eleme/less/index.less",
+				"/D/xampp/htdocs/Project_2/0213eleme/js/index.js",
+				"/D/xampp/htdocs/Project_2/0213eleme/index.html",
+				"/D/xampp/htdocs/Project_2/0213eleme/css/common.css",
+				"/E/千峰/笔记+作业/1122+弹性和布局/移动端页面案例/demo.html",
+				"/E/千峰/笔记+作业/1122+弹性和布局/1122/css/style.css",
+				"/E/千峰/笔记+作业/1122+弹性和布局/移动端页面案例/iconfont/index.css",
+				"/E/千峰/笔记+作业/1122+弹性和布局/移动端页面案例/iconfont/demo.css",
+				"/D/xampp/htdocs/Project_2/0213eleme/images/item_1.jpeg",
+				"/D/xampp/htdocs/Project_2/0213eleme/css/index.css",
+				"/D/xampp/htdocs/Project_2/0213eleme/sass/index.sass",
+				"/D/xampp/htdocs/Project_2/gouwuche/demo.html",
+				"/D/xampp/htdocs/RMK_demo/message/php/add.php",
+				"/D/xampp/htdocs/RMK_demo/message/php/select.php",
+				"/D/xampp/htdocs/blog/wp-config.php",
+				"/D/xampp/htdocs/tp9_1/App/Common/Conf/config.php",
+				"/D/xampp/htdocs/tp9_1/App/Home/Controller/SignController.class.php",
+				"/D/xampp/htdocs/tp9_1/App/Home/Controller/MobileController.class.php",
+				"/D/xampp/htdocs/tp9_1/App/Home/View/Mobile/add.html",
+				"/D/xampp/htdocs/tp9_1/App/Home/Controller/ComController.class.php",
+				"/D/xampp/htdocs/tp9_1/App/Common/Common/function.php",
+				"/D/xampp/htdocs/tp9_1/App/Qwadmin/View/Member/edit.html",
+				"/D/xampp/htdocs/tp9_1/App/Qwadmin/View/Member/index.html"
+			],
+			"find":
+			{
+				"height": 41.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"D:\\xampp\\htdocs\\program\\1221",
+					"D:\\xampp\\htdocs\\program\\1215\\microblog,<current file>",
+					"D:\\xampp\\htdocs\\program\\1216\\js"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"INSERT INTO `mk_posts` VALUES",
+					"操作集合的数据",
+					".:",
+					"rem",
+					"item_1",
+					"15",
+					"USER",
+					"price",
+					"httpRequest",
+					"changeNum",
+					"折",
+					"(",
+					"classList",
+					"{\"",
+					"\"type\"",
+					"\"money\"",
+					"\"zhe\"",
+					"\"img\"",
+					"\"id\"",
+					"\"name\"",
+					"\"n\"",
+					"woff2",
+					":",
+					"*:",
+					"dropdown",
+					"：",
+					" ",
+					"!important",
+					"pic",
+					"查看/编辑",
+					"_GET",
+					"_POST",
+					"_POST\n",
+					"\t\t\n",
+					"cartnum",
+					"rgba(0,0,0,0.5)",
+					"main",
+					"https",
+					"500",
+					"700",
+					"ajax",
+					"about",
+					"pushState",
+					"window.history",
+					"pushState",
+					"_saveToHistory",
+					"_checkMenu",
+					"current",
+					"pushState",
+					"History",
+					"url",
+					"click",
+					"onclick",
+					".on",
+					".on ",
+					" on ",
+					"types, selector, data, fn",
+					"types, selector, data, fn,",
+					" one ",
+					"^one$",
+					"one",
+					"$",
+					"data",
+					"e.data",
+					"function data",
+					"e.data",
+					"data",
+					"isImpact",
+					"javascript",
+					"images",
+					"floor",
+					"this",
+					";\n",
+					"this",
+					"drop",
+					"_time",
+					"i",
+					"main2",
+					"fx",
+					"_fx",
+					"hello",
+					"action",
+					"<!",
+					"brank",
+					"category",
+					"ajaxRequest",
+					"”",
+					"_circle1",
+					"_lists1",
+					"function",
+					"getElementsByTagName",
+					"\");\n",
+					";\n",
+					"\");\n",
+					"_left",
+					"_top",
+					"_lists",
+					";\n",
+					"flag",
+					"=\"",
+					"<input type=\"button\" name=\"btn\" id=\"btn\" value=\"点击前\">",
+					"utf-8",
+					"ut",
+					"utf8",
+					"utf-8",
+					"chatsrt",
+					"lli",
+					"();\n",
+					"ajax",
+					".content .title{margin: 20px 0;}\n.content .dome{margin: 0 auto;width: 50%;}\n.content .dome .link a{font-size: 18px; margin-left: 20px; float: left;text-align: center;width: 128px;height: 28px;background: #999;color: #fff; display: block;border-radius:5px;margin-bottom: 10px;}\n.content .dome .link{overflow: hidden; }\n.content .dome a:hover{background: #f00;}",
+					"<div class=\"dome\">\n\t\t\t\t<div class=\"title\">\n\t\t\t\t\t<h2>MY blog</h2>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"link\">\n\t\t\t\t\t<a href=\"http://my.csdn.net/qq_19245189?locationNum=0&fps=1\" target=\"_blank\">CSDN</a>\n\t\t\t\t\t<a href=\"https://github.com/RuMengkai\" target=\"_blank\">GitHub</a>\n\t\t\t\t\t<a href=\"http://www.cnblogs.com/RuMengkai/tag/HTML5/\" target=\"_blank\">博客园</a>\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t<div class=\"title\">\n\t\t\t\t\t<h2>大牛blog</h2>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"link\">\n\t\t\t\t\t<a href=\"#\">待续...</a>\t\t\t\n\t\t\t\t</div>\n\t\t\t\t<div style=\"height: 400px;\"></div>\n\t\t\t</div>",
+					"getElementsByName",
+					"document",
+					">\n",
+					"\tdocument.get\n",
+					"getElemen",
+					"ajax",
+					"}\n",
+					"_xhr",
+					"e",
+					"@",
+					"1216/php/aa.php",
+					"sublime.packages_path()",
+					"<!-- console.log(_result); -->",
+					"a",
+					"\t\n\t// body...",
+					"\"/>\n",
+					"\">\n"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\project_3"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/project_3/0218express/myApp/app.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 501,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										249,
+										249
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												250,
+												251
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												222,
+												223
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/readme.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 22,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										14,
+										14
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1414,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										337,
+										337
+									]
+								],
+								"settings":
+								{
+									"auto_complete": true,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												410,
+												411
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												303,
+												304
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/E/project_3/test1.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 243,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										89,
+										89
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												95,
+												96
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												64,
+												65
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 256.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.nodejs":
+			{
+				"height": 264.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,652,350,105,1127",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						".jshintrc",
+						"0218express\\myApp\\myExpressApp\\node_modules\\.6.1.0@promise\\.jshintrc"
+					],
+					[
+						"test",
+						"1224\\test.html"
+					],
+					[
+						"",
+						"1214\\index.html"
+					],
+					[
+						"ind",
+						"index.html"
+					],
+					[
+						"cs",
+						"css\\common.css"
+					],
+					[
+						"js",
+						"js\\Ajax.js"
+					],
+					[
+						"a",
+						"js\\Ajax.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
 			"selected_group": 0,
 			"settings":
 			{
@@ -2587,7 +2779,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 157.0,
+			"side_bar_width": 212.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
