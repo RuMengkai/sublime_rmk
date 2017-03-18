@@ -1,0 +1,30 @@
+<snippet>
+	<content><![CDATA[
+<template>
+	<div>
+		${1:这是一个模板}
+	</div>
+</template>
+<script>
+	export default {
+		name: 'app',
+		data () {
+			return {
+				msg:"我是一个组件"
+			}
+		},
+		methods:{
+			
+		}
+	}
+</script>
+
+<style>
+	
+</style>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>vue-init</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>.vue</scope> -->
+</snippet>
