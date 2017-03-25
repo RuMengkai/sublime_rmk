@@ -1,0 +1,2864 @@
+{
+	"folder_history":
+	[
+		"/D/茹孟凯/第三阶段4_小程序/CODE",
+		"/E/bk38",
+		"/E/project_3_5_xcx",
+		"/E/workspaces/node-test",
+		"/E/workspaces",
+		"/E/project",
+		"/E/project-legou",
+		"/E/project_3_3/0308es6/babel",
+		"/E/project_3_3/0308es6/test",
+		"/E/茹孟凯/myInfo",
+		"/E/project_3_3/test/ele",
+		"/E/project_3/0222canvas_video_audio",
+		"/D/PHPxampp/htdocs/graduation",
+		"/D/PHPxampp/htdocs/GraduationProject",
+		"/E/project_3_4_vue",
+		"/D/PHPxampp/htdocs/tp9_1",
+		"/E/dist",
+		"/E/project_3_3/test",
+		"/D/Documents/HBuilderProject/eleAPP",
+		"/D/PHPxampp/htdocs/ele",
+		"/E/project_3_2",
+		"/D/PHPxampp/htdocs/rumengkai",
+		"/E/project_3_3",
+		"/E/project_3",
+		"/D/PHPxampp/htdocs/RMK_demo",
+		"/E/project_3/text",
+		"/D/PHPxampp/htdocs/Program/JuanPi",
+		"/D/PHPxampp/htdocs/blog",
+		"/D/PHPxampp/htdocs/Project_2",
+		"/D/xampp/htdocs/RMK_demo",
+		"/D/xampp/htdocs/blog",
+		"/D/xampp/htdocs/tp9_1",
+		"/D/xampp/htdocs/Program/JuanPi",
+		"/E/千峰/资料/Angular/AngularJS",
+		"/D/xampp/htdocs/Project_2",
+		"/D/xampp/htdocs/RMK_dome",
+		"/D/xampp/htdocs/Angular",
+		"/D/xampp/htdocs/rumengkai",
+		"/D/xampp/htdocs/Program_js",
+		"/D/xampp/htdocs/Program",
+		"/D/xampp/htdocs/program/0107xj/js",
+		"/D/xampp/htdocs/program",
+		"/D/xampp/htdocs/program/1217Exam",
+		"/D/xampp/htdocs/program/1216"
+	],
+	"last_version": 3126,
+	"last_window_id": 67,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 742.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"html",
+						"htmlWebpackPlugin"
+					],
+					[
+						"app",
+						"app.js\t(webpack.config.js)"
+					],
+					[
+						"reqi",
+						"require.registerExtension();"
+					],
+					[
+						"view",
+						"view"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"per",
+						"person1"
+					],
+					[
+						"bo",
+						"border-box"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"fo",
+						"font-size"
+					],
+					[
+						"tex",
+						"text"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"user",
+						"users"
+					],
+					[
+						"fsi",
+						"font-size"
+					],
+					[
+						"on",
+						"onload\t(Register.js)"
+					],
+					[
+						"sytle",
+						"style\tAttr"
+					],
+					[
+						"r",
+						"vue-register.js"
+					],
+					[
+						"v",
+						"index-vue.js"
+					],
+					[
+						"fa",
+						"false"
+					],
+					[
+						"sc",
+						"script\tTag"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"de",
+						"default\t(App.vue)"
+					],
+					[
+						"hom",
+						"Home.vue"
+					],
+					[
+						"u",
+						"User.vue"
+					],
+					[
+						"vue",
+						"vue-init\tvue-init"
+					],
+					[
+						"Vue",
+						"VueRouter"
+					],
+					[
+						"tit",
+						"title\t(index.html)"
+					],
+					[
+						"v-",
+						"v-header"
+					],
+					[
+						"com",
+						"components"
+					],
+					[
+						"im",
+						"import\t(main.js)"
+					],
+					[
+						"ex",
+						"export\t(App.vue)"
+					],
+					[
+						"ajax",
+						"ajax\tGoogle AJAX Libraries: Ext Core"
+					],
+					[
+						"a",
+						"ajax\tGoogle AJAX Libraries: Chrome Frame"
+					],
+					[
+						"sr",
+						"script\tTag"
+					],
+					[
+						"rever",
+						"reverseMsg\t(大纲.txt)"
+					],
+					[
+						"data-",
+						"data-user=\"wxx\t(大纲.txt)"
+					],
+					[
+						"sty",
+						"style\tAttr"
+					],
+					[
+						"butt",
+						"button"
+					],
+					[
+						"da",
+						"data\t(大纲.txt)"
+					],
+					[
+						"fun",
+						"function\tfunction(){}"
+					],
+					[
+						"action",
+						"action.js"
+					],
+					[
+						"i",
+						"import\t(app.js)"
+					],
+					[
+						"re",
+						"return\t(main.js)"
+					],
+					[
+						"es",
+						"es6\t(package.json)"
+					],
+					[
+						"fle",
+						"flex"
+					],
+					[
+						"o",
+						"ov\toverflow"
+					],
+					[
+						"fl",
+						"flex\tflex"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"rea",
+						"reader"
+					],
+					[
+						"txt",
+						"text\t(index.html)"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"top",
+						"topk"
+					],
+					[
+						"d",
+						"down"
+					],
+					[
+						"texta",
+						"text-decoration"
+					],
+					[
+						"colo",
+						"color"
+					],
+					[
+						"lin",
+						"line-height"
+					],
+					[
+						"pad",
+						"padding-left"
+					],
+					[
+						"bg",
+						"background"
+					],
+					[
+						"bodr",
+						"border-radius"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"w",
+						"w\twidth"
+					],
+					[
+						"tex-a",
+						"text-align"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"h",
+						"h\theight"
+					],
+					[
+						"c",
+						"class\tAttr"
+					],
+					[
+						"mg",
+						"margin-top"
+					],
+					[
+						"l",
+						"libs/"
+					],
+					[
+						"ima",
+						"images"
+					],
+					[
+						"contim",
+						"console.timeEnd();"
+					],
+					[
+						"cont",
+						"console.time();"
+					],
+					[
+						"fos",
+						"font-size"
+					],
+					[
+						"xue",
+						"xuewei\t(SignController.class.php)"
+					],
+					[
+						"PHPEX",
+						"PHPExcel_Cell_DataType"
+					],
+					[
+						"doc",
+						"document"
+					],
+					[
+						"win",
+						"window"
+					],
+					[
+						"get",
+						"getContext"
+					],
+					[
+						"gulp",
+						"gulps\tgulp.src('folder')"
+					],
+					[
+						"index",
+						"index.html"
+					],
+					[
+						"dest",
+						"dest"
+					],
+					[
+						"dist",
+						"dist/"
+					],
+					[
+						"comm",
+						"common\tcommon-css"
+					],
+					[
+						"vi",
+						"video/"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"spee",
+						"speed\t(index.html)"
+					],
+					[
+						"3",
+						"3theB.mp4"
+					],
+					[
+						"inn",
+						"innerHTML"
+					],
+					[
+						"ch",
+						"children\t.children()"
+					],
+					[
+						"cu",
+						"cursor"
+					],
+					[
+						"ml",
+						"margin-left"
+					],
+					[
+						"fons",
+						"font-size"
+					],
+					[
+						"hi",
+						"line-height"
+					],
+					[
+						"list-s",
+						"list-style"
+					],
+					[
+						"ty",
+						"type"
+					],
+					[
+						"p",
+						"php\t<?php … ?>"
+					],
+					[
+						"lib",
+						"lib/"
+					],
+					[
+						"z",
+						"zepto.js"
+					],
+					[
+						"cd",
+						"cd_tou.png\tw:77 h:229"
+					],
+					[
+						"num",
+						"num〔function〕"
+					],
+					[
+						"ro",
+						"random〔function〕"
+					],
+					[
+						"str",
+						"stroke"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"ca",
+						"canvas"
+					],
+					[
+						"can",
+						"canvas"
+					],
+					[
+						"http",
+						"http.Client();"
+					],
+					[
+						"clin",
+						"client"
+					],
+					[
+						"cli",
+						"client"
+					],
+					[
+						"sub",
+						"submit\t.submit()"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"br",
+						"bxsh-r\tbox-shadow: ${1:inset }${2:hoff} ${3:voff} ${4:blur} ${5:spread }rgb(${6:0}, ${7:0}, ${8:0});"
+					],
+					[
+						"fd",
+						"fxd-rr\tflex-direction: row-reverse;"
+					],
+					[
+						"hea",
+						"header\t(head.ejs)"
+					],
+					[
+						"und",
+						"undefined〔keyword〕"
+					],
+					[
+						"met",
+						"method\t(login.ejs)"
+					],
+					[
+						"insert",
+						"insertDate"
+					],
+					[
+						"pa",
+						"password"
+					],
+					[
+						"mong",
+						"mongoClient"
+					],
+					[
+						"mon",
+						"mongoClient"
+					],
+					[
+						"su",
+						"sub\t<sub>"
+					],
+					[
+						"ac",
+						"action\tAttr"
+					],
+					[
+						"but",
+						"button"
+					],
+					[
+						"ajsx",
+						"ajaxsuccess\t$.ajaxSuccess()"
+					],
+					[
+						"aj",
+						"ajax\tGoogle AJAX Libraries: Prototype"
+					],
+					[
+						"ser",
+						"server"
+					],
+					[
+						"S",
+						"Server\t(router_2.js)"
+					],
+					[
+						"t",
+						"test333/"
+					],
+					[
+						"Event",
+						"EventEmitter"
+					],
+					[
+						"tra",
+						"transparent"
+					],
+					[
+						"ht",
+						"ht5\tinit-html5"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"key",
+						"Preferences: Terminal Key Bindings – Default"
+					],
+					[
+						"snipp",
+						"Snippet: cssreset"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"auto",
+						"SublimeCodeIntel: Disable Live Autocompletion"
+					],
+					[
+						"clor",
+						"Color Picker"
+					],
+					[
+						"fle",
+						"Snippet: flex"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"un j",
+						"Build With: JSLint"
+					],
+					[
+						"jslin",
+						"JSLint"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"PackageControl",
+						"Package Control: Add Channel"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"setting",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"Snippet: html"
+					],
+					[
+						"key us",
+						"Preferences: Terminal Key Bindings – User"
+					],
+					[
+						"Trailing Spaces",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"setting user",
+						"Preferences: Terminal Settings – User"
+					],
+					[
+						"sett",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"config",
+						"Code Folding: Fold Tag Attributes"
+					],
+					[
+						"user",
+						"Preferences: Terminal Settings – User"
+					],
+					[
+						"sublimeCodeIntel",
+						"SublimeCodeIntel: Reset"
+					],
+					[
+						"tag",
+						"File: Copy as Tag a"
+					],
+					[
+						"AllAutocomplete",
+						"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+					],
+					[
+						"less",
+						"Set Syntax: LESS"
+					],
+					[
+						"pic",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet",
+						"Snippet: setTimeout function"
+					],
+					[
+						"Snippets",
+						"SublimeCodeIntel: Dump Import Directories"
+					],
+					[
+						"tab",
+						"View: Toggle Tabs"
+					],
+					[
+						"stting",
+						"Preferences: Settings"
+					],
+					[
+						"packager",
+						"Package Control: Remove Package"
+					],
+					[
+						"sublin",
+						"SublimeCodeIntel: Reset"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"line",
+						"Sort Lines"
+					],
+					[
+						"emmet wra",
+						"Emmet: Wrap With Abbreviation"
+					],
+					[
+						"git ",
+						"Git: Init"
+					],
+					[
+						"prefer",
+						"Preferences: Settings"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"SETING",
+						"Preferences: Settings"
+					],
+					[
+						"view",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"v",
+						"View: Toggle Open Files in Side Bar"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 551.0,
+				"history":
+				[
+					"ll",
+					"ls",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"sublime.packages_path()",
+					"SUBLIME.packages_path()",
+					"SUBLIME.packages_",
+					"sublime.packages_path()",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"found",
+					"amd",
+					"ll",
+					"ls"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": false,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/workspaces/react-project/build/index.html",
+				"/E/workspaces/react-project/src/index.ejs",
+				"/E/workspaces/react-project/package.json",
+				"/E/workspaces/react-project/webpack.config.js",
+				"/E/workspaces/react-project/src/script/name.js",
+				"/E/workspaces/react-project/build/app.js",
+				"/E/workspaces/react-project/index.html",
+				"/E/workspaces/react-project/node_modules/webpack.config.js",
+				"/E/workspaces/react-project/bundle.js",
+				"/E/workspaces/react-project/name.js",
+				"/E/workspaces/react-project/app.js",
+				"/E/workspaces/react-project3/react-project/index.html",
+				"/E/workspaces/react-project1/index.html",
+				"/E/project_3/0222canvas_video_audio/video/README",
+				"/E/workspaces/node-test/package.json",
+				"/E/workspaces/node-test/test/demo.js",
+				"/E/workspaces/open",
+				"/E/workspaces/sub",
+				"/E/workspaces/sub.sh",
+				"/C/Users/Administrator/.gitconfig",
+				"/E/workspaces/react-project2/index.html",
+				"/E/workspaces/react-app/package.json",
+				"/E/bk38/aa.json",
+				"/E/bk38/weapp/pages/index/index.wxml",
+				"/E/bk38/weapp/pages/list/list.scss",
+				"/E/bk38/weapp/pages/common/movie-list.wxml",
+				"/E/bk38/weapp/pages/list/list.json",
+				"/E/bk38/weapp/pages/list/list.wxml",
+				"/E/bk38/weapp/pages/list/list.js",
+				"/E/bk38/weapp/app.json",
+				"/E/bk38/weapp/pages/board/board.wxml",
+				"/E/bk38/weapp/pages/logs/logs.js",
+				"/E/bk38/weapp/utils/fetch.js",
+				"/E/bk38/weapp/pages/common/movie-list.scss",
+				"/E/bk38/weapp/pages/common/movie-list.wxss",
+				"/E/bk38/weapp/pages/list/list.wxss",
+				"/D/茹孟凯/第三阶段4_小程序/CODE/pages/list/list.scss",
+				"/E/bk38/weapp/package.json",
+				"/E/project_3_5_xcx/pages/map/map.wxml",
+				"/E/茹孟凯/myInfo/info.txt",
+				"/E/project_3_5_xcx/pages/map/map.json",
+				"/E/project_3_5_xcx/pages/map/map.js",
+				"/E/project_3_5_xcx/pages/map/map.wxss",
+				"/E/project_3_5_xcx/pages/index/index.wxml",
+				"/E/project_3_5_xcx/app.js",
+				"/E/project_3_5_xcx/app.json",
+				"/E/project_3_5_xcx/pages/logs/logs.js",
+				"/E/bk38/weapp/pages/board/board.js",
+				"/E/bk38/weapp/app.js",
+				"/E/project_3_3/0308es6/babel/.babelrc",
+				"/E/project_3_3/0308es6/babel/aa.js",
+				"/E/project_3_3/0308es6/babel/a.js",
+				"/E/project_3_3/0308es6/babel/package.json",
+				"/E/project_3_3/0308es6/test/js/b.js",
+				"/E/project_3_3/0308es6/test/es6/b.js",
+				"/E/project_3_3/0308es6/test/a.js",
+				"/E/project_3_3/0308es6/test/.babelrc",
+				"/E/project_3_3/0308es6/test/package.json",
+				"/E/project_3_3/0308es6/test/js/index.js",
+				"/E/bk38/weapp/pages/index/index.js",
+				"/E/bk38/weapp/pages/splash/splash.wxml",
+				"/E/bk38/weapp/pages/board/board.scss",
+				"/E/bk38/weapp/pages/splash/splash.js",
+				"/E/bk38/weapp/pages/board/board.json",
+				"/E/bk38/weapp/pages/splash/splash.scss",
+				"/E/bk38/weapp/app.scss",
+				"/E/bk38/weapp/pages/splash/splash.wxss",
+				"/D/茹孟凯/第三阶段4_小程序/CODE/pages/splash/splash.js",
+				"/E/bk38/weapp/utils/douban.js",
+				"/E/bk38/weapp/app.wxss",
+				"/E/bk38/weapp/gulpfile.js",
+				"/E/bk38/weapp/pages/splash/splash.sxss",
+				"/E/bk38/weapp/pages/splash/splash.json",
+				"/E/bk38/weapp/pages/users/user.js",
+				"/E/茹孟凯/myInfo/prototype.html",
+				"/E/茹孟凯/myInfo/3分钟自我介绍.txt",
+				"/E/茹孟凯/3分钟自我介绍.txt",
+				"/E/bk38/weapp/pages/index/index.wxss",
+				"/E/bk38/api/moviesList.json",
+				"/E/bk38/weapp/pages/logs/logs.wxml",
+				"/E/bk38/weapp/pages/index/index.json",
+				"/E/bk38/weapp/pages/logs/logs.json",
+				"/E/bk38/weapp/pages/users/user.json",
+				"/E/bk38/webpack/package.json",
+				"/E/project_3_3/test/ele/nav.js",
+				"/E/bk38/webpack/api.js",
+				"/E/bk38/weapp/utils/util.js",
+				"/E/bk38/weapp/pages/logs/logs.wxss",
+				"/E/project_3/0222canvas_video_audio/video/index.html",
+				"/E/project_3_5_xcx/pages/logs/logs.wxml",
+				"/E/project_3_5_xcx/pages/logs/logs.wxss",
+				"/E/project_3_5_xcx/pages/index/index.js",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/View/Member/index.html",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/Controller/ArticleController.class.php",
+				"/D/PHPxampp/htdocs/GraduationProject/Register.html",
+				"/D/PHPxampp/htdocs/GraduationProject/js/vue-register.js",
+				"/D/PHPxampp/htdocs/graduation/App/Home/Controller/IndexController.class.php",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/View/Setting/setting.html",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/View/Article/index.html",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/View/Index/index.html",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/View/Article/form.html",
+				"/D/PHPxampp/htdocs/GraduationProject/index.html",
+				"/D/PHPxampp/htdocs/GraduationProject/Products.html",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/View/Public/head.html",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/View/Public/header.html",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/View/Public/set.html",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/View/Public/sidebar.html",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/View/Public/footer.html",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/Controller/LoginController.class.php",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/Controller/MemberController.class.php",
+				"/D/PHPxampp/htdocs/GraduationProject/Change_pwd.html",
+				"/D/PHPxampp/htdocs/GraduationProject/js/Register.js",
+				"/D/PHPxampp/htdocs/GraduationProject/Change_User_Info.html",
+				"/D/PHPxampp/htdocs/GraduationProject/css/HeadFoot_style.css",
+				"/D/PHPxampp/htdocs/GraduationProject/js/index-vue.js",
+				"/E/project_3_4_vue/my-vue-project/src/App.vue",
+				"/E/project_3_4_vue/my-vue-project/src/components/Home.vue",
+				"/E/project_3_4_vue/my-vue-project/src/main.js",
+				"/E/project_3_4_vue/my-vue-project/index.html",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Snippet/console.sublime-snippet",
+				"/E/project_3_4_vue/my-vue-project/src/router/router.js",
+				"/E/project_3_4_vue/my-vue-project/src/components/Header.vue",
+				"/E/project_3_4_vue/my-vue-project/src/components/Footer.vue",
+				"/E/project_3_4_vue/my-vue-project/src/components/User.vue",
+				"/E/project_3_4_vue/my-vue-project/src/components/Kind.vue",
+				"/E/project_3_4_vue/my-vue-project/src/components/Cart.vue",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Snippet/vue-init.sublime-snippet",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"D:\\xampp\\htdocs\\program\\1221",
+					"D:\\xampp\\htdocs\\program\\1215\\microblog,<current file>",
+					"D:\\xampp\\htdocs\\program\\1216\\js"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"handleLoadMore",
+					"文章",
+					"标题",
+					"文章",
+					"商品",
+					"标题",
+					"文章",
+					"ace-settings-container",
+					"path",
+					"pathname",
+					"browserHistory",
+					"withExampleBasename",
+					"browserHistory",
+					"map",
+					"data",
+					"gongGeData",
+					"entry",
+					".entry",
+					"__build__",
+					"render",
+					"aa",
+					"info",
+					"px",
+					"ado",
+					"a1",
+					"aaa",
+					"a",
+					"a1",
+					"addcart",
+					"width",
+					"button",
+					"audio",
+					"tels",
+					"cxt",
+					"线程",
+					"INSERT INTO `mk_posts` VALUES",
+					"操作集合的数据",
+					".:",
+					"rem",
+					"item_1",
+					"15",
+					"USER",
+					"price",
+					"httpRequest",
+					"changeNum",
+					"折",
+					"(",
+					"classList",
+					"{\"",
+					"\"type\"",
+					"\"money\"",
+					"\"zhe\"",
+					"\"img\"",
+					"\"id\"",
+					"\"name\"",
+					"\"n\"",
+					"woff2",
+					":",
+					"*:",
+					"dropdown",
+					"：",
+					" ",
+					"!important",
+					"pic",
+					"查看/编辑",
+					"_GET",
+					"_POST",
+					"_POST\n",
+					"\t\t\n",
+					"cartnum",
+					"rgba(0,0,0,0.5)",
+					"main",
+					"https",
+					"500",
+					"700",
+					"ajax",
+					"about",
+					"pushState",
+					"window.history",
+					"pushState",
+					"_saveToHistory",
+					"_checkMenu",
+					"current",
+					"pushState",
+					"History",
+					"url",
+					"click",
+					"onclick",
+					".on",
+					".on ",
+					" on ",
+					"types, selector, data, fn",
+					"types, selector, data, fn,",
+					" one ",
+					"^one$",
+					"one",
+					"$",
+					"data",
+					"e.data",
+					"function data",
+					"e.data",
+					"data",
+					"isImpact",
+					"javascript",
+					"images",
+					"floor",
+					"this",
+					";\n",
+					"this",
+					"drop",
+					"_time",
+					"i",
+					"main2",
+					"fx",
+					"_fx",
+					"hello",
+					"action",
+					"<!",
+					"brank",
+					"category",
+					"ajaxRequest",
+					"”",
+					"_circle1",
+					"_lists1",
+					"function",
+					"getElementsByTagName",
+					"\");\n",
+					";\n"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 256.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.nodejs":
+			{
+				"height": 264.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"project_3_3\\test\\ele\\eleApp\\package.json"
+					],
+					[
+						".jshintrc",
+						"0218express\\myApp\\myExpressApp\\node_modules\\.6.1.0@promise\\.jshintrc"
+					],
+					[
+						"test",
+						"1224\\test.html"
+					],
+					[
+						"ind",
+						"index.html"
+					],
+					[
+						"cs",
+						"css\\common.css"
+					],
+					[
+						"js",
+						"js\\Ajax.js"
+					],
+					[
+						"a",
+						"js\\Ajax.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 248.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1094.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"clas",
+						"className"
+					],
+					[
+						"col",
+						"columns"
+					],
+					[
+						"fle",
+						"flex\tflex"
+					],
+					[
+						"u",
+						"usage/"
+					],
+					[
+						"vi",
+						"viewport\tviewport"
+					],
+					[
+						"com",
+						"component\t(app.js)"
+					],
+					[
+						"li",
+						"list"
+					],
+					[
+						"imp",
+						"import〔keyword〕"
+					],
+					[
+						"de",
+						"default"
+					],
+					[
+						"expor",
+						"export〔keyword〕"
+					],
+					[
+						"loa",
+						"loader"
+					],
+					[
+						"html",
+						"htmlWebpackPlugin"
+					],
+					[
+						"app",
+						"app.js\t(webpack.config.js)"
+					],
+					[
+						"reqi",
+						"require.registerExtension();"
+					],
+					[
+						"view",
+						"view"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"per",
+						"person1"
+					],
+					[
+						"bo",
+						"border-box"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"fo",
+						"font-size"
+					],
+					[
+						"tex",
+						"text"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"user",
+						"users"
+					],
+					[
+						"fsi",
+						"font-size"
+					],
+					[
+						"on",
+						"onload\t(Register.js)"
+					],
+					[
+						"sytle",
+						"style\tAttr"
+					],
+					[
+						"r",
+						"vue-register.js"
+					],
+					[
+						"v",
+						"index-vue.js"
+					],
+					[
+						"fa",
+						"false"
+					],
+					[
+						"sc",
+						"script\tTag"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"hom",
+						"Home.vue"
+					],
+					[
+						"vue",
+						"vue-init\tvue-init"
+					],
+					[
+						"Vue",
+						"VueRouter"
+					],
+					[
+						"tit",
+						"title\t(index.html)"
+					],
+					[
+						"v-",
+						"v-header"
+					],
+					[
+						"im",
+						"import\t(main.js)"
+					],
+					[
+						"ex",
+						"export\t(App.vue)"
+					],
+					[
+						"ajax",
+						"ajax\tGoogle AJAX Libraries: Ext Core"
+					],
+					[
+						"a",
+						"ajax\tGoogle AJAX Libraries: Chrome Frame"
+					],
+					[
+						"sr",
+						"script\tTag"
+					],
+					[
+						"rever",
+						"reverseMsg\t(大纲.txt)"
+					],
+					[
+						"data-",
+						"data-user=\"wxx\t(大纲.txt)"
+					],
+					[
+						"sty",
+						"style\tAttr"
+					],
+					[
+						"butt",
+						"button"
+					],
+					[
+						"da",
+						"data\t(大纲.txt)"
+					],
+					[
+						"fun",
+						"function\tfunction(){}"
+					],
+					[
+						"action",
+						"action.js"
+					],
+					[
+						"i",
+						"import\t(app.js)"
+					],
+					[
+						"re",
+						"return\t(main.js)"
+					],
+					[
+						"es",
+						"es6\t(package.json)"
+					],
+					[
+						"o",
+						"ov\toverflow"
+					],
+					[
+						"fl",
+						"flex\tflex"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"rea",
+						"reader"
+					],
+					[
+						"txt",
+						"text\t(index.html)"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"top",
+						"topk"
+					],
+					[
+						"d",
+						"down"
+					],
+					[
+						"texta",
+						"text-decoration"
+					],
+					[
+						"colo",
+						"color"
+					],
+					[
+						"lin",
+						"line-height"
+					],
+					[
+						"pad",
+						"padding-left"
+					],
+					[
+						"bg",
+						"background"
+					],
+					[
+						"bodr",
+						"border-radius"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"w",
+						"w\twidth"
+					],
+					[
+						"tex-a",
+						"text-align"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"h",
+						"h\theight"
+					],
+					[
+						"c",
+						"class\tAttr"
+					],
+					[
+						"mg",
+						"margin-top"
+					],
+					[
+						"l",
+						"libs/"
+					],
+					[
+						"ima",
+						"images"
+					],
+					[
+						"contim",
+						"console.timeEnd();"
+					],
+					[
+						"cont",
+						"console.time();"
+					],
+					[
+						"fos",
+						"font-size"
+					],
+					[
+						"xue",
+						"xuewei\t(SignController.class.php)"
+					],
+					[
+						"PHPEX",
+						"PHPExcel_Cell_DataType"
+					],
+					[
+						"doc",
+						"document"
+					],
+					[
+						"win",
+						"window"
+					],
+					[
+						"get",
+						"getContext"
+					],
+					[
+						"gulp",
+						"gulps\tgulp.src('folder')"
+					],
+					[
+						"index",
+						"index.html"
+					],
+					[
+						"dest",
+						"dest"
+					],
+					[
+						"dist",
+						"dist/"
+					],
+					[
+						"comm",
+						"common\tcommon-css"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"spee",
+						"speed\t(index.html)"
+					],
+					[
+						"3",
+						"3theB.mp4"
+					],
+					[
+						"inn",
+						"innerHTML"
+					],
+					[
+						"ch",
+						"children\t.children()"
+					],
+					[
+						"cu",
+						"cursor"
+					],
+					[
+						"ml",
+						"margin-left"
+					],
+					[
+						"fons",
+						"font-size"
+					],
+					[
+						"hi",
+						"line-height"
+					],
+					[
+						"list-s",
+						"list-style"
+					],
+					[
+						"ty",
+						"type"
+					],
+					[
+						"p",
+						"php\t<?php … ?>"
+					],
+					[
+						"lib",
+						"lib/"
+					],
+					[
+						"z",
+						"zepto.js"
+					],
+					[
+						"cd",
+						"cd_tou.png\tw:77 h:229"
+					],
+					[
+						"num",
+						"num〔function〕"
+					],
+					[
+						"ro",
+						"random〔function〕"
+					],
+					[
+						"str",
+						"stroke"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"ca",
+						"canvas"
+					],
+					[
+						"can",
+						"canvas"
+					],
+					[
+						"http",
+						"http.Client();"
+					],
+					[
+						"clin",
+						"client"
+					],
+					[
+						"cli",
+						"client"
+					],
+					[
+						"sub",
+						"submit\t.submit()"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"br",
+						"bxsh-r\tbox-shadow: ${1:inset }${2:hoff} ${3:voff} ${4:blur} ${5:spread }rgb(${6:0}, ${7:0}, ${8:0});"
+					],
+					[
+						"fd",
+						"fxd-rr\tflex-direction: row-reverse;"
+					],
+					[
+						"hea",
+						"header\t(head.ejs)"
+					],
+					[
+						"und",
+						"undefined〔keyword〕"
+					],
+					[
+						"met",
+						"method\t(login.ejs)"
+					],
+					[
+						"insert",
+						"insertDate"
+					],
+					[
+						"pa",
+						"password"
+					],
+					[
+						"mong",
+						"mongoClient"
+					],
+					[
+						"mon",
+						"mongoClient"
+					],
+					[
+						"su",
+						"sub\t<sub>"
+					],
+					[
+						"ac",
+						"action\tAttr"
+					],
+					[
+						"but",
+						"button"
+					],
+					[
+						"ajsx",
+						"ajaxsuccess\t$.ajaxSuccess()"
+					],
+					[
+						"aj",
+						"ajax\tGoogle AJAX Libraries: Prototype"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/workspaces/react-project/src/style/app.scss",
+					"settings":
+					{
+						"buffer_size": 115,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/workspaces/react-project/src/script/component/index.js",
+					"settings":
+					{
+						"buffer_size": 567,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/workspaces/react-project/webpack.config.js",
+					"settings":
+					{
+						"buffer_size": 1784,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/workspaces/react-project/src/style/usage/module/m-index.scss",
+					"settings":
+					{
+						"buffer_size": 241,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "ins",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"key",
+						"Preferences: Terminal Key Bindings – Default"
+					],
+					[
+						"snipp",
+						"Snippet: cssreset"
+					],
+					[
+						"auto",
+						"SublimeCodeIntel: Disable Live Autocompletion"
+					],
+					[
+						"clor",
+						"Color Picker"
+					],
+					[
+						"fle",
+						"Snippet: flex"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"un j",
+						"Build With: JSLint"
+					],
+					[
+						"jslin",
+						"JSLint"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"PackageControl",
+						"Package Control: Add Channel"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"setting",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"Snippet: html"
+					],
+					[
+						"key us",
+						"Preferences: Terminal Key Bindings – User"
+					],
+					[
+						"Trailing Spaces",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"setting user",
+						"Preferences: Terminal Settings – User"
+					],
+					[
+						"sett",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"config",
+						"Code Folding: Fold Tag Attributes"
+					],
+					[
+						"user",
+						"Preferences: Terminal Settings – User"
+					],
+					[
+						"sublimeCodeIntel",
+						"SublimeCodeIntel: Reset"
+					],
+					[
+						"tag",
+						"File: Copy as Tag a"
+					],
+					[
+						"AllAutocomplete",
+						"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+					],
+					[
+						"less",
+						"Set Syntax: LESS"
+					],
+					[
+						"pic",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet",
+						"Snippet: setTimeout function"
+					],
+					[
+						"Snippets",
+						"SublimeCodeIntel: Dump Import Directories"
+					],
+					[
+						"tab",
+						"View: Toggle Tabs"
+					],
+					[
+						"stting",
+						"Preferences: Settings"
+					],
+					[
+						"packager",
+						"Package Control: Remove Package"
+					],
+					[
+						"sublin",
+						"SublimeCodeIntel: Reset"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"line",
+						"Sort Lines"
+					],
+					[
+						"emmet wra",
+						"Emmet: Wrap With Abbreviation"
+					],
+					[
+						"git ",
+						"Git: Init"
+					],
+					[
+						"prefer",
+						"Preferences: Settings"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"SETING",
+						"Preferences: Settings"
+					],
+					[
+						"view",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"v",
+						"View: Toggle Open Files in Side Bar"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 551.0,
+				"history":
+				[
+					"ll",
+					"ls",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"sublime.packages_path()",
+					"SUBLIME.packages_path()",
+					"SUBLIME.packages_",
+					"sublime.packages_path()",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"found",
+					"amd",
+					"ll",
+					"ls"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": false,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/workspaces",
+				"/E/workspaces/react-project",
+				"/E/workspaces/react-project/src/script/component"
+			],
+			"file_history":
+			[
+				"/E/workspaces/react-project/src/style/usage/module/common.scss",
+				"/E/workspaces/react-project/src/index.ejs",
+				"/E/bk38/weapp/app.json",
+				"/E/bk38/weapp/app.scss",
+				"/E/bk38/weapp/app.wxss",
+				"/E/workspaces/react-project/src/script/component/index.js",
+				"/E/workspaces/react-project/src/style/app.scss",
+				"/E/workspaces/react-project/src/style/usage/module/m-index.scss",
+				"/E/bk38/weapp/pages/board/board.js",
+				"/D/茹孟凯/第三阶段4_小程序/CODE/app.json",
+				"/E/bk38/weapp/app.js",
+				"/E/workspaces/react-project/src/style/usage/core/reset.scss",
+				"/E/project_3_5_xcx/app.json",
+				"/E/workspaces/react-project/webpack.config.js",
+				"/E/workspaces/react-project/READEME.md",
+				"/E/workspaces/react-project/src/mock/list.json",
+				"/E/workspaces/react-project/build/index.html",
+				"/E/workspaces/react-project/build/app.css",
+				"/E/workspaces/react-2/src/script/component/index.js",
+				"/E/workspaces/react-project/src/script/app.js",
+				"/E/workspaces/react-project/src/mock/mock.js",
+				"/E/workspaces/react-2/src/script/app.js",
+				"/E/workspaces/react-2/webpack.config.js",
+				"/E/project_3_3/0308es6t/react-es6/.babelrc",
+				"/E/project_3_3/0309react-router/.babelrc",
+				"/E/workspaces/react-project/.babelrc",
+				"/E/workspaces/react-project/package.json",
+				"/E/workspaces/react-2/build/index.html",
+				"/E/workspaces/react-2/package.json",
+				"/E/workspaces/react-2/src/style/app.scss",
+				"/E/workspaces/react-project/build/app.js",
+				"/E/workspaces/react-project/index.html",
+				"/E/workspaces/react-project/src/script/name.js",
+				"/E/workspaces/react-project/node_modules/webpack.config.js",
+				"/E/workspaces/react-project/bundle.js",
+				"/E/workspaces/react-project/name.js",
+				"/E/workspaces/react-project/app.js",
+				"/E/workspaces/react-project3/react-project/index.html",
+				"/E/workspaces/react-project1/index.html",
+				"/E/project_3/0222canvas_video_audio/video/README",
+				"/E/workspaces/node-test/package.json",
+				"/E/workspaces/node-test/test/demo.js",
+				"/E/workspaces/open",
+				"/E/workspaces/sub",
+				"/E/workspaces/sub.sh",
+				"/C/Users/Administrator/.gitconfig",
+				"/E/workspaces/react-project2/index.html",
+				"/E/workspaces/react-app/package.json",
+				"/E/bk38/aa.json",
+				"/E/bk38/weapp/pages/index/index.wxml",
+				"/E/bk38/weapp/pages/list/list.scss",
+				"/E/bk38/weapp/pages/common/movie-list.wxml",
+				"/E/bk38/weapp/pages/list/list.json",
+				"/E/bk38/weapp/pages/list/list.wxml",
+				"/E/bk38/weapp/pages/list/list.js",
+				"/E/bk38/weapp/pages/board/board.wxml",
+				"/E/bk38/weapp/pages/logs/logs.js",
+				"/E/bk38/weapp/utils/fetch.js",
+				"/E/bk38/weapp/pages/common/movie-list.scss",
+				"/E/bk38/weapp/pages/common/movie-list.wxss",
+				"/E/bk38/weapp/pages/list/list.wxss",
+				"/D/茹孟凯/第三阶段4_小程序/CODE/pages/list/list.scss",
+				"/E/bk38/weapp/package.json",
+				"/E/project_3_5_xcx/pages/map/map.wxml",
+				"/E/茹孟凯/myInfo/info.txt",
+				"/E/project_3_5_xcx/pages/map/map.json",
+				"/E/project_3_5_xcx/pages/map/map.js",
+				"/E/project_3_5_xcx/pages/map/map.wxss",
+				"/E/project_3_5_xcx/pages/index/index.wxml",
+				"/E/project_3_5_xcx/app.js",
+				"/E/project_3_5_xcx/pages/logs/logs.js",
+				"/E/project_3_3/0308es6/babel/.babelrc",
+				"/E/project_3_3/0308es6/babel/aa.js",
+				"/E/project_3_3/0308es6/babel/a.js",
+				"/E/project_3_3/0308es6/babel/package.json",
+				"/E/project_3_3/0308es6/test/js/b.js",
+				"/E/project_3_3/0308es6/test/es6/b.js",
+				"/E/project_3_3/0308es6/test/a.js",
+				"/E/project_3_3/0308es6/test/.babelrc",
+				"/E/project_3_3/0308es6/test/package.json",
+				"/E/project_3_3/0308es6/test/js/index.js",
+				"/E/bk38/weapp/pages/index/index.js",
+				"/E/bk38/weapp/pages/splash/splash.wxml",
+				"/E/bk38/weapp/pages/board/board.scss",
+				"/E/bk38/weapp/pages/splash/splash.js",
+				"/E/bk38/weapp/pages/board/board.json",
+				"/E/bk38/weapp/pages/splash/splash.scss",
+				"/E/bk38/weapp/pages/splash/splash.wxss",
+				"/D/茹孟凯/第三阶段4_小程序/CODE/pages/splash/splash.js",
+				"/E/bk38/weapp/utils/douban.js",
+				"/E/bk38/weapp/gulpfile.js",
+				"/E/bk38/weapp/pages/splash/splash.sxss",
+				"/E/bk38/weapp/pages/splash/splash.json",
+				"/E/bk38/weapp/pages/users/user.js",
+				"/E/茹孟凯/myInfo/prototype.html",
+				"/E/茹孟凯/myInfo/3分钟自我介绍.txt",
+				"/E/茹孟凯/3分钟自我介绍.txt",
+				"/E/bk38/weapp/pages/index/index.wxss",
+				"/E/bk38/api/moviesList.json",
+				"/E/bk38/weapp/pages/logs/logs.wxml",
+				"/E/bk38/weapp/pages/index/index.json",
+				"/E/bk38/weapp/pages/logs/logs.json",
+				"/E/bk38/weapp/pages/users/user.json",
+				"/E/bk38/webpack/package.json",
+				"/E/project_3_3/test/ele/nav.js",
+				"/E/bk38/webpack/api.js",
+				"/E/bk38/weapp/utils/util.js",
+				"/E/bk38/weapp/pages/logs/logs.wxss",
+				"/E/project_3/0222canvas_video_audio/video/index.html",
+				"/E/project_3_5_xcx/pages/logs/logs.wxml",
+				"/E/project_3_5_xcx/pages/logs/logs.wxss",
+				"/E/project_3_5_xcx/pages/index/index.js",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/View/Member/index.html",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/Controller/ArticleController.class.php",
+				"/D/PHPxampp/htdocs/GraduationProject/Register.html",
+				"/D/PHPxampp/htdocs/GraduationProject/js/vue-register.js",
+				"/D/PHPxampp/htdocs/graduation/App/Home/Controller/IndexController.class.php",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/View/Setting/setting.html",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/View/Article/index.html",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/View/Index/index.html",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/View/Article/form.html",
+				"/D/PHPxampp/htdocs/GraduationProject/index.html",
+				"/D/PHPxampp/htdocs/GraduationProject/Products.html",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/View/Public/head.html",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/View/Public/header.html",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/View/Public/set.html",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/View/Public/sidebar.html",
+				"/D/PHPxampp/htdocs/graduation/App/Qwadmin/View/Public/footer.html"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"D:\\xampp\\htdocs\\program\\1221",
+					"D:\\xampp\\htdocs\\program\\1215\\microblog,<current file>",
+					"D:\\xampp\\htdocs\\program\\1216\\js"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"handleLoadMore",
+					"文章",
+					"标题",
+					"文章",
+					"商品",
+					"标题",
+					"文章",
+					"ace-settings-container",
+					"path",
+					"pathname",
+					"browserHistory",
+					"withExampleBasename",
+					"browserHistory",
+					"map",
+					"data",
+					"gongGeData",
+					"entry",
+					".entry",
+					"__build__",
+					"render",
+					"aa",
+					"info",
+					"px",
+					"ado",
+					"a1",
+					"aaa",
+					"a",
+					"a1",
+					"addcart",
+					"width",
+					"button",
+					"audio",
+					"tels",
+					"cxt",
+					"线程",
+					"INSERT INTO `mk_posts` VALUES",
+					"操作集合的数据",
+					".:",
+					"rem",
+					"item_1",
+					"15",
+					"USER",
+					"price",
+					"httpRequest",
+					"changeNum",
+					"折",
+					"(",
+					"classList",
+					"{\"",
+					"\"type\"",
+					"\"money\"",
+					"\"zhe\"",
+					"\"img\"",
+					"\"id\"",
+					"\"name\"",
+					"\"n\"",
+					"woff2",
+					":",
+					"*:",
+					"dropdown",
+					"：",
+					" ",
+					"!important",
+					"pic",
+					"查看/编辑",
+					"_GET",
+					"_POST",
+					"_POST\n",
+					"\t\t\n",
+					"cartnum",
+					"rgba(0,0,0,0.5)",
+					"main",
+					"https",
+					"500",
+					"700",
+					"ajax",
+					"about",
+					"pushState",
+					"window.history",
+					"pushState",
+					"_saveToHistory",
+					"_checkMenu",
+					"current",
+					"pushState",
+					"History",
+					"url",
+					"click",
+					"onclick",
+					".on",
+					".on ",
+					" on ",
+					"types, selector, data, fn",
+					"types, selector, data, fn,",
+					" one ",
+					"^one$",
+					"one",
+					"$",
+					"data",
+					"e.data",
+					"function data",
+					"e.data",
+					"data",
+					"isImpact",
+					"javascript",
+					"images",
+					"floor",
+					"this",
+					";\n",
+					"this",
+					"drop",
+					"_time",
+					"i",
+					"main2",
+					"fx",
+					"_fx",
+					"hello",
+					"action",
+					"<!",
+					"brank",
+					"category",
+					"ajaxRequest",
+					"”",
+					"_circle1",
+					"_lists1",
+					"function",
+					"getElementsByTagName",
+					"\");\n",
+					";\n"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\workspaces"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/workspaces/react-project/src/style/app.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 115,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										115,
+										115
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/CSS/CSS.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/workspaces/react-project/src/script/component/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 567,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										134,
+										134
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												133,
+												134
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												117,
+												118
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/workspaces/react-project/webpack.config.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1784,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										848,
+										848
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												953,
+												954
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												798,
+												799
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 750.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/E/workspaces/react-project/src/style/usage/module/m-index.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 241,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										198,
+										198
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												237,
+												238
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												197,
+												198
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 256.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.nodejs":
+			{
+				"height": 264.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,834,112,34,1222",
+			"project": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"project_3_3\\test\\ele\\eleApp\\package.json"
+					],
+					[
+						".jshintrc",
+						"0218express\\myApp\\myExpressApp\\node_modules\\.6.1.0@promise\\.jshintrc"
+					],
+					[
+						"test",
+						"1224\\test.html"
+					],
+					[
+						"ind",
+						"index.html"
+					],
+					[
+						"cs",
+						"css\\common.css"
+					],
+					[
+						"js",
+						"js\\Ajax.js"
+					],
+					[
+						"a",
+						"js\\Ajax.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 211.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 55,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
